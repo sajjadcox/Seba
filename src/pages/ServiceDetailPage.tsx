@@ -342,6 +342,7 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ slug, onNa
           url={service.officialUrl}
           title={service.name[language] || service.name.en}
           provider={service.organization ? (service.organization[language] || service.organization.en) : undefined}
+          service={service}
           onClose={() => setShowInAppViewer(false)}
         />
       )}

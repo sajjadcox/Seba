@@ -16,45 +16,16 @@ import { PrivacyPage } from './pages/PrivacyPage';
 import { DisclaimerPage } from './pages/DisclaimerPage';
 import { NotFoundState } from './components/States';
 import { categorySlugMap, serviceSlugMap } from './data/directoryData';
+import { updatePageSEO } from './utils/seo';
 
 const AppContent: React.FC = () => {
   const { pathname, searchParams, route, navigate } = useRouter();
   const { language, t } = useLanguage();
 
-  // Dynamic document title update based on route
+  // Dynamic document title and Google SEO optimization based on route
   useEffect(() => {
-    let title = `${t.siteName} — ${t.tagline}`;
-    if (route.name === 'categories') {
-      title = `${t.nav.categories} | ${t.siteName}`;
-    } else if (route.name === 'category') {
-      const cat = categorySlugMap.get(route.slug);
-      if (cat) {
-        title = `${cat.name[language]} | ${t.siteName}`;
-      }
-    } else if (route.name === 'services') {
-      title = `${t.nav.services} | ${t.siteName}`;
-    } else if (route.name === 'service') {
-      const srv = serviceSlugMap.get(route.slug);
-      if (srv) {
-        title = `${srv.name[language]} | ${t.siteName}`;
-      }
-    } else if (route.name === 'helplines') {
-      title = `${t.nav.helplines} | ${t.siteName}`;
-    } else if (route.name === 'search') {
-      title = `${t.search.resultsFor} "${route.query}" | ${t.siteName}`;
-    } else if (route.name === 'about') {
-      title = `${t.nav.about} | ${t.siteName}`;
-    } else if (route.name === 'contact') {
-      title = `${t.nav.contact} | ${t.siteName}`;
-    } else if (route.name === 'privacy') {
-      title = `${t.nav.privacy} | ${t.siteName}`;
-    } else if (route.name === 'disclaimer') {
-      title = `${t.nav.disclaimer} | ${t.siteName}`;
-    } else if (route.name === 'not_found') {
-      title = `${t.common.notFoundTitle} | ${t.siteName}`;
-    }
-    document.title = title;
-  }, [route, language, t]);
+    updatePageSEO(route, language, window.location.origin);
+  }, [route, language]);
 
   const renderCurrentPage = () => {
     switch (route.name) {

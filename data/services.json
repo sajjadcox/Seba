@@ -10551,5 +10551,476 @@
     },
     "isFeatured": false,
     "isActive": true
+  },
+  {
+    "id": "SVC-0311",
+    "slug": "online-gd-bangladesh-police",
+    "name": {
+      "en": "Bangladesh Police Online GD Portal",
+      "bn": "বাংলাদেশ পুলিশ অনলাইন জিডি (সাধারণ ডায়েরি)"
+    },
+    "description": {
+      "en": "Official portal by Bangladesh Police to lodge general diaries (GD) online for lost documents, certificates, or citizen security issues from anywhere without visiting the police station.",
+      "bn": "জরুরি কাগজপত্র, এনআইডি, সার্টিফিকেট বা মূল্যবান সামগ্রী হারানো সংক্রান্ত সাধারণ ডায়েরি (জিডি) ঘরে বসেই অনলাইনে দায়ের করার সরকারি প্ল্যাটফর্ম।"
+    },
+    "organization": {
+      "en": "Bangladesh Police, Ministry of Home Affairs",
+      "bn": "বাংলাদেশ পুলিশ, স্বরাষ্ট্র মন্ত্রণালয়"
+    },
+    "countryCode": "BD",
+    "categoryId": "CAT-005",
+    "subcategoryId": "SUB-005-01",
+    "officialUrl": "https://gd.police.gov.bd/",
+    "sourceIds": [
+      "SRC-001"
+    ],
+    "keywords": [
+      "gd",
+      "online gd",
+      "police gd",
+      "সাধারণ ডায়েরি",
+      "অনলাইন জিডি",
+      "পুলিশ জিডি",
+      "হারানো বিজ্ঞপ্তি"
+    ],
+    "serviceType": "government-service",
+    "verification": {
+      "officialSourceConfirmed": true,
+      "httpStatus": 200,
+      "contentChecked": true,
+      "lastVerifiedAt": "2026-10-28",
+      "verifiedBy": "system-audit",
+      "status": "official-source-confirmed",
+      "note": "Official Bangladesh Police citizen e-service portal."
+    },
+    "embed": {
+      "policy": "restricted",
+      "fallbackEnabled": true
+    },
+    "isFeatured": true,
+    "isActive": true
+  },
+  {
+    "id": "SVC-0312",
+    "slug": "dhaka-wasa-e-water-bill",
+    "name": {
+      "en": "Dhaka WASA Online Water Bill & Grievance Portal",
+      "bn": "ঢাকা ওয়াসা অনলাইন বিল পরিশোধ ও অভিযোগ প্রতিকার"
+    },
+    "description": {
+      "en": "Check monthly water and sewerage utility bills, download statements, make online digital payments, and lodge service delivery complaints directly to Dhaka WASA.",
+      "bn": "ঢাকা ওয়াসার পানির বিল অনুসন্ধান, স্টেটমেন্ট ডাউনলোড, বিকাশ/নগদ/কার্ডের মাধ্যমে অনলাইন বিল পরিশোধ এবং সুপেয় পানি ও সুয়ারেজ অভিযোগ দাখিল।"
+    },
+    "organization": {
+      "en": "Dhaka Water Supply and Sewerage Authority (DWASA)",
+      "bn": "ঢাকা পানি সরবরাহ ও পয়ঃনিষ্কাশন কর্তৃপক্ষ (ঢাকা ওয়াসা)"
+    },
+    "countryCode": "BD",
+    "categoryId": "CAT-012",
+    "subcategoryId": "SUB-012-02",
+    "officialUrl": "https://dwasa.org.bd/",
+    "sourceIds": [
+      "SRC-001"
+    ],
+    "keywords": [
+      "wasa",
+      "dhaka wasa",
+      "পানি বিল",
+      "ওয়াসা",
+      "ওয়াসা বিল",
+      "water bill"
+    ],
+    "serviceType": "government-service",
+    "verification": {
+      "officialSourceConfirmed": true,
+      "httpStatus": 200,
+      "contentChecked": true,
+      "lastVerifiedAt": "2026-10-28",
+      "verifiedBy": "system-audit",
+      "status": "official-source-confirmed",
+      "note": "Official Dhaka WASA public utility site."
+    },
+    "embed": {
+      "policy": "allowed",
+      "fallbackEnabled": true
+    },
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "SVC-0313",
+    "slug": "dpdc-online-electricity-services",
+    "name": {
+      "en": "DPDC Online Electricity Bill & Smart Meter Portal",
+      "bn": "ডিপিডিসি বিদ্যুৎ বিল ও স্মার্ট প্রিপেইড মিটার রিচার্জ"
+    },
+    "description": {
+      "en": "Dhaka Power Distribution Company (DPDC) portal for prepaid meter token generation, postpaid bill payment, load extension requests, and power outage reporting.",
+      "bn": "ঢাকা পাওয়ার ডিস্ট্রিবিউশন কোম্পানি (ডিপিডিসি)-র গ্রাহকদের প্রিপেইড মিটার রিচার্জ, পোস্টপেইড বিল পরিশোধ, বিদ্যুৎ সংযোগ আবেদন ও লোড পরিবর্তনের সরকারি পোর্টাল।"
+    },
+    "organization": {
+      "en": "Dhaka Power Distribution Company Limited (DPDC)",
+      "bn": "ঢাকা পাওয়ার ডিস্ট্রিবিউশন কোম্পানি লিমিটেড (ডিপিডিসি)"
+    },
+    "countryCode": "BD",
+    "categoryId": "CAT-012",
+    "subcategoryId": "SUB-012-01",
+    "officialUrl": "https://dpdc.org.bd/",
+    "sourceIds": [
+      "SRC-001"
+    ],
+    "keywords": [
+      "dpdc",
+      "electricity bill",
+      "prepaid meter",
+      "বিদ্যুৎ বিল",
+      "ডিপিডিসি",
+      "প্রিপেইড মিটার"
+    ],
+    "serviceType": "government-service",
+    "verification": {
+      "officialSourceConfirmed": true,
+      "httpStatus": 200,
+      "contentChecked": true,
+      "lastVerifiedAt": "2026-10-28",
+      "verifiedBy": "system-audit",
+      "status": "official-source-confirmed",
+      "note": "Official DPDC public utility portal."
+    },
+    "embed": {
+      "policy": "restricted",
+      "fallbackEnabled": true
+    },
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "SVC-0314",
+    "slug": "desco-customer-service-portal",
+    "name": {
+      "en": "DESCO Online Electricity Bill & Prepaid Services",
+      "bn": "ডেসকো অনলাইন বিদ্যুৎ বিল ও গ্রাহক সেবা পোর্টাল"
+    },
+    "description": {
+      "en": "Dhaka Electric Supply Company (DESCO) online customer portal for bill payment, complaint tracking, prepaid token checking, and smart meter account management.",
+      "bn": "ঢাকা ইলেকট্রিক সাপ্লাই কোম্পানি (ডেসকো)-র ডিজিটাল সেবা: বিদ্যুৎ বিল পরিশোধ, অভিযোগ ট্র্যাকিং ও প্রিপেইড মিটারের হিসাব নিরীক্ষা।"
+    },
+    "organization": {
+      "en": "Dhaka Electric Supply Company Limited (DESCO)",
+      "bn": "ঢাকা ইলেকট্রিক সাপ্লাই কোম্পানি লিমিটেড (ডেসকো)"
+    },
+    "countryCode": "BD",
+    "categoryId": "CAT-012",
+    "subcategoryId": "SUB-012-01",
+    "officialUrl": "https://desco.org.bd/",
+    "sourceIds": [
+      "SRC-001"
+    ],
+    "keywords": [
+      "desco",
+      "electricity bill",
+      "ডেসকো",
+      "বিদ্যুৎ বিল",
+      "প্রিপেইড মিটার রিচার্জ"
+    ],
+    "serviceType": "government-service",
+    "verification": {
+      "officialSourceConfirmed": true,
+      "httpStatus": 200,
+      "contentChecked": true,
+      "lastVerifiedAt": "2026-10-28",
+      "verifiedBy": "system-audit",
+      "status": "official-source-confirmed",
+      "note": "Official DESCO public utility portal."
+    },
+    "embed": {
+      "policy": "restricted",
+      "fallbackEnabled": true
+    },
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "SVC-0315",
+    "slug": "nbr-etin-registration-portal",
+    "name": {
+      "en": "NBR e-TIN Online Taxpayer Identification Registration",
+      "bn": "এনবিআর ই-টিআইএন অনলাইন করদাতা শনাক্তকরণ নিবন্ধন"
+    },
+    "description": {
+      "en": "National Board of Revenue (NBR) official 12-digit e-TIN registration, re-registration, TIN certificate download, and verification system for citizens and businesses.",
+      "bn": "জাতীয় রাজস্ব বোর্ডের অনলাইন ১২ ডিজিটের ই-টিআইএন নিবন্ধন, পুরাতন টিআইএন রূপান্তর এবং তাৎক্ষণিক টিআইএন সার্টিফিকেট ডাউনলোড ও যাচাইকরণ।"
+    },
+    "organization": {
+      "en": "National Board of Revenue (NBR)",
+      "bn": "জাতীয় রাজস্ব বোর্ড (এনবিআর)"
+    },
+    "countryCode": "BD",
+    "categoryId": "CAT-008",
+    "subcategoryId": "SUB-008-01",
+    "officialUrl": "https://secure.incometax.gov.bd/TINHome",
+    "sourceIds": [
+      "SRC-001"
+    ],
+    "keywords": [
+      "etin",
+      "tin",
+      "tax tin",
+      "nbr",
+      "টিআইএন",
+      "ই-টিআইএন",
+      "ট্যাক্স সার্টিফিকেট",
+      "আয়কর"
+    ],
+    "serviceType": "government-service",
+    "verification": {
+      "officialSourceConfirmed": true,
+      "httpStatus": 200,
+      "contentChecked": true,
+      "lastVerifiedAt": "2026-10-28",
+      "verifiedBy": "system-audit",
+      "status": "official-source-confirmed",
+      "note": "Official NBR e-TIN government tax portal."
+    },
+    "embed": {
+      "policy": "restricted",
+      "fallbackEnabled": true
+    },
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "SVC-0316",
+    "slug": "biman-bangladesh-airlines-booking",
+    "name": {
+      "en": "Biman Bangladesh Airlines Online Booking & Flight Status",
+      "bn": "বিমান বাংলাদেশ এয়ারলাইন্স অনলাইন ফ্লাইট বুকিং ও সময়সূচি"
+    },
+    "description": {
+      "en": "Official national flag carrier airline portal for domestic and international flight ticket booking, web check-in, flight schedules, and baggage tracking.",
+      "bn": "বাংলাদেশ বিমান-এর নিজস্ব অফিশিয়াল ওয়েব পোর্টাল: অভ্যন্তরীণ ও আন্তর্জাতিক রুটের টিকিট বুকিং, ওয়েব চেক-ইন এবং ফ্লাইট সময়সূচি অনুসন্ধান।"
+    },
+    "organization": {
+      "en": "Biman Bangladesh Airlines",
+      "bn": "বিমান বাংলাদেশ এয়ারলাইন্স"
+    },
+    "countryCode": "BD",
+    "categoryId": "CAT-052",
+    "subcategoryId": null,
+    "officialUrl": "https://biman-airlines.com/",
+    "sourceIds": [
+      "SRC-001"
+    ],
+    "keywords": [
+      "biman",
+      "biman bangladesh",
+      "flight booking",
+      "বিমান বাংলাদেশ",
+      "বিমান টিকিট",
+      "ফ্লাইট শিডিউল"
+    ],
+    "serviceType": "government-service",
+    "verification": {
+      "officialSourceConfirmed": true,
+      "httpStatus": 200,
+      "contentChecked": true,
+      "lastVerifiedAt": "2026-10-28",
+      "verifiedBy": "system-audit",
+      "status": "official-source-confirmed",
+      "note": "National carrier official airline booking portal."
+    },
+    "embed": {
+      "policy": "restricted",
+      "fallbackEnabled": true
+    },
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "SVC-0317",
+    "slug": "dgfp-family-planning-maternal-health",
+    "name": {
+      "en": "DGFP Maternal, Child Health & Family Welfare Services",
+      "bn": "পরিবার পরিকল্পনা অধিদপ্তর মা ও শিশু স্বাস্থ্য এবং পরিবার কল্যাণ সেবা"
+    },
+    "description": {
+      "en": "Directorate General of Family Planning citizen services for maternal healthcare, adolescent nutrition guidance, neonatal welfare, and clinical consultation networks.",
+      "bn": "গর্ভবতী মা ও নবজাতক শিশুর বিনামূল্যে স্বাস্থ্যসেবা, কিশোর-কিশোরী স্বাস্থ্য পরামর্শ এবং পরিবার পরিকল্পনা মাঠপর্যায়ের ক্লিনিক সেবা।"
+    },
+    "organization": {
+      "en": "Directorate General of Family Planning (DGFP)",
+      "bn": "পরিবার পরিকল্পনা অধিদপ্তর, স্বাস্থ্য ও পরিবার কল্যাণ মন্ত্রণালয়"
+    },
+    "countryCode": "BD",
+    "categoryId": "CAT-003",
+    "subcategoryId": "SUB-003-01",
+    "officialUrl": "https://dgfp.gov.bd/",
+    "sourceIds": [
+      "SRC-001"
+    ],
+    "keywords": [
+      "dgfp",
+      "family planning",
+      "maternal health",
+      "পরিবার পরিকল্পনা",
+      "মা ও শিশু স্বাস্থ্য",
+      "গর্ভবতী যত্ন"
+    ],
+    "serviceType": "government-service",
+    "verification": {
+      "officialSourceConfirmed": true,
+      "httpStatus": 200,
+      "contentChecked": true,
+      "lastVerifiedAt": "2026-10-28",
+      "verifiedBy": "system-audit",
+      "status": "official-source-confirmed",
+      "note": "Official DGFP health directorate portal."
+    },
+    "embed": {
+      "policy": "restricted",
+      "fallbackEnabled": true
+    },
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "SVC-0318",
+    "slug": "national-savings-directorate-shanchayapatra",
+    "name": {
+      "en": "National Savings Directorate (Shanchayapatra) Services",
+      "bn": "জাতীয় সঞ্চয় অধিদপ্তর সঞ্চয়পত্র ক্রয় ও মুনাফা তথ্য পোর্টাল"
+    },
+    "description": {
+      "en": "Official National Savings portal for checking Shanchayapatra rules, profit interest slabs, pension investment limits, encashment schedules, and online application guidelines.",
+      "bn": "পেনশনার, পরিবার সঞ্চয়পত্র, তিন মাস অন্তর মুনাফাভিত্তিক ও বাংলাদেশ সঞ্চয়পত্রের নিয়মাবলী, মুনাফার হার, অনলাইনে আবেদন ও মুনাফা পরিশোধ তথ্য।"
+    },
+    "organization": {
+      "en": "Department of National Savings, Internal Resources Division",
+      "bn": "জাতীয় সঞ্চয় অধিদপ্তর, অভ্যন্তরীণ সম্পদ বিভাগ"
+    },
+    "countryCode": "BD",
+    "categoryId": "CAT-008",
+    "subcategoryId": "SUB-008-02",
+    "officialUrl": "https://savings.gov.bd/",
+    "sourceIds": [
+      "SRC-001"
+    ],
+    "keywords": [
+      "savings",
+      "shanchayapatra",
+      "সঞ্চয়পত্র",
+      "জাতীয় সঞ্চয়",
+      "পেনশনার সঞ্চয়পত্র",
+      "পরিবার সঞ্চয়পত্র"
+    ],
+    "serviceType": "government-service",
+    "verification": {
+      "officialSourceConfirmed": true,
+      "httpStatus": 200,
+      "contentChecked": true,
+      "lastVerifiedAt": "2026-10-28",
+      "verifiedBy": "system-audit",
+      "status": "official-source-confirmed",
+      "note": "Official National Savings Department website."
+    },
+    "embed": {
+      "policy": "restricted",
+      "fallbackEnabled": true
+    },
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "SVC-0319",
+    "slug": "joyeeta-foundation-women-entrepreneurs",
+    "name": {
+      "en": "Joyeeta Foundation Women Entrepreneurship & Market Support",
+      "bn": "জয়িতা ফাউন্ডেশন নারী উদ্যোক্তা ও পণ্য বিপণন সহায়তা"
+    },
+    "description": {
+      "en": "Government initiative promoting women empowerment by providing capacity building, product standardization, fair marketplace access, and financial linkage to female entrepreneurs.",
+      "bn": "তৃণমূল নারী উদ্যোক্তাদের অর্থনৈতিক স্বাবলম্বিতা অর্জন, হস্তশিল্প ও দেশীয় পণ্যের ন্যায্যমূল্যে বাজারজাতকরণ এবং প্রশিক্ষণ সহায়তার প্ল্যাটফর্ম।"
+    },
+    "organization": {
+      "en": "Joyeeta Foundation, Ministry of Women and Children Affairs",
+      "bn": "জয়িতা ফাউন্ডেশন, মহিলা ও শিশু বিষয়ক মন্ত্রণালয়"
+    },
+    "countryCode": "BD",
+    "categoryId": "CAT-020",
+    "subcategoryId": "SUB-020-01",
+    "officialUrl": "https://joyeeta.gov.bd/",
+    "sourceIds": [
+      "SRC-001"
+    ],
+    "keywords": [
+      "joyeeta",
+      "women entrepreneur",
+      "জয়িতা",
+      "নারী উদ্যোক্তা",
+      "মহিলা বিষয়ক"
+    ],
+    "serviceType": "government-service",
+    "verification": {
+      "officialSourceConfirmed": true,
+      "httpStatus": 200,
+      "contentChecked": true,
+      "lastVerifiedAt": "2026-10-28",
+      "verifiedBy": "system-audit",
+      "status": "official-source-confirmed",
+      "note": "Official Joyeeta Foundation government website."
+    },
+    "embed": {
+      "policy": "restricted",
+      "fallbackEnabled": true
+    },
+    "isFeatured": false,
+    "isActive": true
+  },
+  {
+    "id": "SVC-0320",
+    "slug": "bb-cib-credit-information-bureau",
+    "name": {
+      "en": "Bangladesh Bank CIB Credit Information Bureau Inquiry",
+      "bn": "বাংলাদেশ ব্যাংক সিআইবি (ক্রেডিট ইনফরমেশন ব্যুরো) সেবা"
+    },
+    "description": {
+      "en": "Central Bank Credit Information Bureau guidelines, credit report verification process, loan borrower classification status, and dispute resolution for bank customers.",
+      "bn": "ব্যাংক গ্রাহকদের ঋণ গ্রহীতার বিবরণী, ক্রেডিট হিস্ট্রি ও খেলাপি ঋণ সংক্রান্ত সিআইবি রিপোর্ট তথ্য এবং নিষ্পত্তির কেন্দ্রীয় ব্যাংক নির্দেশিকা।"
+    },
+    "organization": {
+      "en": "Bangladesh Bank (Central Bank of Bangladesh)",
+      "bn": "বাংলাদেশ ব্যাংক (কেন্দ্রীয় ব্যাংক)"
+    },
+    "countryCode": "BD",
+    "categoryId": "CAT-008",
+    "subcategoryId": "SUB-008-01",
+    "officialUrl": "https://cib.bb.org.bd/",
+    "sourceIds": [
+      "SRC-001"
+    ],
+    "keywords": [
+      "cib",
+      "bangladesh bank cib",
+      "credit report",
+      "সিআইবি",
+      "বাংলাদেশ ব্যাংক",
+      "ঋণ তথ্য"
+    ],
+    "serviceType": "government-service",
+    "verification": {
+      "officialSourceConfirmed": true,
+      "httpStatus": 200,
+      "contentChecked": true,
+      "lastVerifiedAt": "2026-10-28",
+      "verifiedBy": "system-audit",
+      "status": "official-source-confirmed",
+      "note": "Central Bank of Bangladesh CIB official web application."
+    },
+    "embed": {
+      "policy": "restricted",
+      "fallbackEnabled": true
+    },
+    "isFeatured": false,
+    "isActive": true
   }
 ]

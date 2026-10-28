@@ -60,24 +60,24 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
   ];
 
   return (
-    <div className="space-y-12 sm:space-y-16">
+    <div className="space-y-8 sm:space-y-16">
       {/* Hero Section */}
-      <section className="relative overflow-hidden pt-8 pb-12 sm:pt-14 sm:pb-16 bg-gradient-to-b from-emerald-50/70 via-white to-slate-50 dark:from-emerald-950/40 dark:via-slate-900 dark:to-slate-950 border-b border-slate-200/80 dark:border-slate-800">
+      <section className="relative overflow-hidden pt-6 pb-8 sm:pt-14 sm:pb-16 bg-gradient-to-b from-emerald-50/70 via-white to-slate-50 dark:from-emerald-950/40 dark:via-slate-900 dark:to-slate-950 border-b border-slate-200/80 dark:border-slate-800">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 text-center">
           {/* Subtle National Pill */}
-          <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-emerald-100/80 dark:bg-emerald-950/80 border border-emerald-200 dark:border-emerald-800 text-emerald-900 dark:text-emerald-300 text-xs sm:text-sm font-semibold mb-6 shadow-2xs">
+          <div className="inline-flex items-center gap-1.5 px-3 py-1 sm:px-3.5 sm:py-1.5 rounded-full bg-emerald-100/80 dark:bg-emerald-950/80 border border-emerald-200 dark:border-emerald-800 text-emerald-900 dark:text-emerald-300 text-xs sm:text-sm font-semibold mb-3 sm:mb-6 shadow-2xs">
             <span className="w-2 h-2 rounded-full bg-emerald-600 dark:bg-emerald-400 animate-pulse" />
             <span>{t.home.heroTitlePrefix}</span>
           </div>
 
-          <h1 className="text-3xl sm:text-5xl lg:text-6xl font-black text-slate-900 dark:text-white tracking-tight leading-tight sm:leading-tight mb-4 sm:mb-6">
+          <h1 className="text-2xl sm:text-5xl lg:text-6xl font-black text-slate-900 dark:text-white tracking-tight leading-tight sm:leading-tight mb-3 sm:mb-6">
             <span>{language === 'bn' ? 'সকল প্রয়োজনীয় সেবা,' : 'All Essential Services,'}</span>{' '}
             <span className="text-emerald-700 dark:text-emerald-400 underline decoration-emerald-300 dark:decoration-emerald-600 decoration-wavy decoration-2 underline-offset-8">
               {language === 'bn' ? 'এক ঠিকানায়।' : 'One Place.'}
             </span>
           </h1>
 
-          <p className="text-sm sm:text-lg text-slate-600 dark:text-slate-300 max-w-2xl mx-auto mb-8 sm:mb-10 leading-relaxed">
+          <p className="text-xs sm:text-lg text-slate-600 dark:text-slate-300 max-w-2xl mx-auto mb-6 sm:mb-10 leading-relaxed">
             {t.home.heroSubtitle}
           </p>
 
@@ -94,10 +94,10 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
 
       {/* Urgent Citizen Helplines Strip */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between mb-4">
+        <div className="flex items-center justify-between mb-3 sm:mb-4">
           <div className="flex items-center gap-2">
-            <PhoneCall size={18} className="text-emerald-700 dark:text-emerald-400" />
-            <h2 className="text-base sm:text-lg font-bold text-slate-900 dark:text-white">
+            <PhoneCall size={16} className="text-emerald-700 dark:text-emerald-400" />
+            <h2 className="text-sm sm:text-lg font-bold text-slate-900 dark:text-white">
               {t.emergencyBanner.title}
             </h2>
           </div>
@@ -107,25 +107,25 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             className="inline-flex items-center gap-1.5 text-xs font-bold text-emerald-700 dark:text-emerald-400 hover:text-emerald-800 dark:hover:text-emerald-300 hover:underline cursor-pointer"
           >
             <span>{language === 'bn' ? 'সকল জরুরি হেল্পলাইন (২০+)' : 'View All Helplines (20+)'}</span>
-            <ArrowRight size={14} />
+            <ArrowRight size={13} />
           </button>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
+        <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-4">
           {urgentHelplines.map((item) => (
             <a
               key={item.number}
               href={`tel:${item.number}`}
-              className={`flex items-center justify-between p-4 rounded-xl border transition-all duration-200 cursor-pointer shadow-2xs ${item.color}`}
+              className={`flex items-center justify-between p-2.5 sm:p-4 rounded-xl border transition-all duration-200 cursor-pointer shadow-2xs ${item.color}`}
             >
               <div>
-                <span className="text-xs font-bold uppercase tracking-wide opacity-90">
+                <span className="text-[11px] sm:text-xs font-bold uppercase tracking-wide opacity-90 block truncate">
                   {item.title}
                 </span>
-                <p className="text-xs opacity-75 mt-0.5 line-clamp-1">{item.desc}</p>
+                <p className="text-[10px] sm:text-xs opacity-75 mt-0.5 line-clamp-1">{item.desc}</p>
               </div>
-              <div className="flex items-center gap-1 text-base sm:text-lg font-extrabold shrink-0 pl-2">
-                <PhoneCall size={16} />
+              <div className="flex items-center gap-1 text-sm sm:text-lg font-extrabold shrink-0 pl-1.5">
+                <PhoneCall size={14} />
                 <span>{item.number}</span>
               </div>
             </a>
@@ -135,24 +135,24 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
 
       {/* Sector Overview Cards */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4">
           {/* Government Sector */}
           <div
             onClick={() => onNavigate('/services?sector=government-or-public')}
-            className="group p-5 bg-white dark:bg-slate-900 rounded-xl border border-blue-100 dark:border-slate-800 hover:border-blue-300 dark:hover:border-blue-700 hover:shadow-md transition-all cursor-pointer text-left"
+            className="group p-3.5 sm:p-5 bg-white dark:bg-slate-900 rounded-xl border border-blue-100 dark:border-slate-800 hover:border-blue-300 dark:hover:border-blue-700 hover:shadow-md transition-all cursor-pointer text-left"
           >
-            <div className="flex items-center justify-between mb-3">
-              <div className="p-2.5 rounded-lg bg-blue-50 dark:bg-blue-950/80 text-blue-700 dark:text-blue-300 border border-blue-100 dark:border-blue-800">
-                <Building2 size={22} />
+            <div className="flex items-center justify-between mb-2 sm:mb-3">
+              <div className="p-2 sm:p-2.5 rounded-lg bg-blue-50 dark:bg-blue-950/80 text-blue-700 dark:text-blue-300 border border-blue-100 dark:border-blue-800">
+                <Building2 className="w-4 h-4 sm:w-5 sm:h-5" />
               </div>
-              <span className="text-xs font-bold px-2.5 py-1 rounded-full bg-blue-50 dark:bg-blue-950/80 text-blue-800 dark:text-blue-300 border border-blue-200/60 dark:border-blue-800">
+              <span className="text-[10px] sm:text-xs font-bold px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-full bg-blue-50 dark:bg-blue-950/80 text-blue-800 dark:text-blue-300 border border-blue-200/60 dark:border-blue-800">
                 {sectorCounts.government} {language === 'bn' ? 'সেবা' : 'services'}
               </span>
             </div>
-            <h3 className="text-base font-bold text-slate-900 dark:text-white group-hover:text-blue-700 dark:group-hover:text-blue-400 transition-colors mb-1">
+            <h3 className="text-sm sm:text-base font-bold text-slate-900 dark:text-white group-hover:text-blue-700 dark:group-hover:text-blue-400 transition-colors mb-1">
               {language === 'bn' ? 'সরকারি ও জনসেবা' : 'Government & Public Services'}
             </h3>
-            <p className="text-xs text-slate-600 dark:text-slate-300 line-clamp-2 leading-relaxed">
+            <p className="text-[11px] sm:text-xs text-slate-600 dark:text-slate-300 line-clamp-2 leading-relaxed">
               {language === 'bn'
                 ? 'জাতীয় তথ্য বাতায়ন, মাইগভ, পাসপোর্ট, বিআরটিএ, ভূমি ও এনবিআর সরকারি সেবা।'
                 : 'National Portal, myGov, passport, BRTA licensing, land records, and NBR tax returns.'}
@@ -162,20 +162,20 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
           {/* Private / Community Sector */}
           <div
             onClick={() => onNavigate('/services?sector=private-or-community')}
-            className="group p-5 bg-white dark:bg-slate-900 rounded-xl border border-purple-100 dark:border-slate-800 hover:border-purple-300 dark:hover:border-purple-700 hover:shadow-md transition-all cursor-pointer text-left"
+            className="group p-3.5 sm:p-5 bg-white dark:bg-slate-900 rounded-xl border border-purple-100 dark:border-slate-800 hover:border-purple-300 dark:hover:border-purple-700 hover:shadow-md transition-all cursor-pointer text-left"
           >
-            <div className="flex items-center justify-between mb-3">
-              <div className="p-2.5 rounded-lg bg-purple-50 dark:bg-purple-950/80 text-purple-700 dark:text-purple-300 border border-purple-100 dark:border-purple-800">
-                <Sparkles size={22} />
+            <div className="flex items-center justify-between mb-2 sm:mb-3">
+              <div className="p-2 sm:p-2.5 rounded-lg bg-purple-50 dark:bg-purple-950/80 text-purple-700 dark:text-purple-300 border border-purple-100 dark:border-purple-800">
+                <Sparkles className="w-4 h-4 sm:w-5 sm:h-5" />
               </div>
-              <span className="text-xs font-bold px-2.5 py-1 rounded-full bg-purple-50 dark:bg-purple-950/80 text-purple-800 dark:text-purple-300 border border-purple-200/60 dark:border-purple-800">
+              <span className="text-[10px] sm:text-xs font-bold px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-full bg-purple-50 dark:bg-purple-950/80 text-purple-800 dark:text-purple-300 border border-purple-200/60 dark:border-purple-800">
                 {sectorCounts.private} {language === 'bn' ? 'সেবা' : 'services'}
               </span>
             </div>
-            <h3 className="text-base font-bold text-slate-900 dark:text-white group-hover:text-purple-700 dark:group-hover:text-purple-400 transition-colors mb-1">
+            <h3 className="text-sm sm:text-base font-bold text-slate-900 dark:text-white group-hover:text-purple-700 dark:group-hover:text-purple-400 transition-colors mb-1">
               {language === 'bn' ? 'বেসরকারি ও নাগরিক সেবা' : 'Private & Everyday Citizen Services'}
             </h3>
-            <p className="text-xs text-slate-600 dark:text-slate-300 line-clamp-2 leading-relaxed">
+            <p className="text-[11px] sm:text-xs text-slate-600 dark:text-slate-300 line-clamp-2 leading-relaxed">
               {language === 'bn'
                 ? 'ইউটিলিটি পেমেন্ট, মোবাইল ব্যাংকিং, স্বাস্থ্য নেটওয়ার্ক ও নিত্যপ্রয়োজনীয় পোর্টাল।'
                 : 'Utility bill payments, mobile financial services, health networks, and daily citizen tools.'}
@@ -186,12 +186,12 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
 
       {/* Popular Categories Grid */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-3 mb-6">
+        <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-2 sm:gap-3 mb-4 sm:mb-6">
           <div>
-            <h2 className="text-xl sm:text-2xl font-bold text-slate-900 dark:text-white tracking-tight">
+            <h2 className="text-lg sm:text-2xl font-bold text-slate-900 dark:text-white tracking-tight">
               {t.home.popularCategoriesTitle}
             </h2>
-            <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 mt-1">
+            <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 mt-0.5 sm:mt-1">
               {t.home.popularCategoriesSubtitle}
             </p>
           </div>
@@ -201,11 +201,11 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             className="inline-flex items-center gap-1.5 text-xs sm:text-sm font-semibold text-emerald-700 dark:text-emerald-400 hover:text-emerald-800 dark:hover:text-emerald-300 transition-colors cursor-pointer self-start sm:self-auto"
           >
             <span>{t.home.viewAllCategories}</span>
-            <ArrowRight size={15} />
+            <ArrowRight size={14} />
           </button>
         </div>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
+        <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 gap-2.5 sm:gap-6">
           {featuredCategories.map((category) => (
             <CategoryCard
               key={category.id}
