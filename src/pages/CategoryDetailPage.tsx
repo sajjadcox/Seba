@@ -75,25 +75,25 @@ export const CategoryDetailPage: React.FC<CategoryDetailPageProps> = ({
       <Breadcrumbs items={breadcrumbs} onNavigate={onNavigate} />
 
       {/* Category Banner Card */}
-      <div className="p-6 sm:p-8 bg-white rounded-2xl border border-slate-200/90 shadow-xs mb-8">
+      <div className="p-6 sm:p-8 bg-white dark:bg-slate-900 rounded-2xl border border-slate-200/90 dark:border-slate-800 shadow-xs mb-8">
         <div className="flex flex-col sm:flex-row sm:items-center gap-4 sm:gap-6">
-          <div className="p-4 rounded-xl bg-emerald-50 text-emerald-800 border border-emerald-100 shrink-0 self-start sm:self-center">
+          <div className="p-4 rounded-xl bg-emerald-50 dark:bg-emerald-950/80 text-emerald-800 dark:text-emerald-300 border border-emerald-100 dark:border-emerald-800 shrink-0 self-start sm:self-center">
             <CategoryIcon slug={category.slug} size={36} />
           </div>
 
           <div className="flex-1">
             <div className="flex flex-wrap items-center gap-2 mb-2">
               <SectorBadge sector={category.sector} size="sm" />
-              <span className="text-xs font-semibold px-2.5 py-0.5 rounded-full bg-slate-100 text-slate-700">
+              <span className="text-xs font-semibold px-2.5 py-0.5 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 border border-slate-200/60 dark:border-slate-700">
                 {categoryServices.length} {language === 'bn' ? 'সেবা তালিকাভুক্ত' : 'services listed'}
               </span>
             </div>
 
-            <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-2">
+            <h1 className="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight mb-2">
               {category.name[language] || category.name.en}
             </h1>
 
-            <p className="text-xs sm:text-sm text-slate-600 leading-relaxed max-w-3xl">
+            <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed max-w-3xl">
               {category.description[language] || category.description.en}
             </p>
           </div>
@@ -101,8 +101,8 @@ export const CategoryDetailPage: React.FC<CategoryDetailPageProps> = ({
 
         {/* Subcategory Pills */}
         {categorySubcategories.length > 0 && (
-          <div className="mt-6 pt-5 border-t border-slate-100">
-            <div className="flex items-center gap-2 text-xs font-bold text-slate-500 uppercase tracking-wider mb-3">
+          <div className="mt-6 pt-5 border-t border-slate-100 dark:border-slate-800">
+            <div className="flex items-center gap-2 text-xs font-bold text-slate-500 dark:text-slate-400 uppercase tracking-wider mb-3">
               <Layers size={14} />
               <span>{language === 'bn' ? 'উপ-বিভাগসমূহ (সাব-ক্যাটাগরি)' : 'Subcategories'}</span>
             </div>
@@ -114,7 +114,7 @@ export const CategoryDetailPage: React.FC<CategoryDetailPageProps> = ({
                 className={`px-3 py-1.5 text-xs font-semibold rounded-lg transition-colors cursor-pointer ${
                   !activeSubcategory
                     ? 'bg-emerald-700 text-white'
-                    : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
+                    : 'bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'
                 }`}
               >
                 {language === 'bn' ? 'সকল উপ-বিভাগ' : 'All Subcategories'}
@@ -133,13 +133,13 @@ export const CategoryDetailPage: React.FC<CategoryDetailPageProps> = ({
                     className={`inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg transition-colors cursor-pointer border ${
                       isSelected
                         ? 'bg-emerald-700 text-white border-emerald-700'
-                        : 'bg-white text-slate-700 border-slate-200 hover:border-emerald-300 hover:bg-emerald-50'
+                        : 'bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border-slate-200 dark:border-slate-800 hover:border-emerald-300 dark:hover:border-emerald-700 hover:bg-emerald-50 dark:hover:bg-emerald-950/40'
                     }`}
                   >
                     <span>{sub.name[language] || sub.name.en}</span>
                     <span
                       className={`text-[10px] px-1.5 py-0.2 rounded-full ${
-                        isSelected ? 'bg-emerald-800 text-emerald-100' : 'bg-slate-100 text-slate-600'
+                        isSelected ? 'bg-emerald-800 text-emerald-100' : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400'
                       }`}
                     >
                       {subCount}

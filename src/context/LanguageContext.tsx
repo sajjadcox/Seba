@@ -12,6 +12,7 @@ export interface Translations {
     govServices: string;
     privateServices: string;
     communityServices: string;
+    helplines: string;
     about: string;
     contact: string;
     privacy: string;
@@ -141,6 +142,7 @@ const translations: Record<Language, Translations> = {
       govServices: 'Government Services',
       privateServices: 'Private Services',
       communityServices: 'Community Services',
+      helplines: 'National Helplines',
       about: 'About',
       contact: 'Contact',
       privacy: 'Privacy Policy',
@@ -268,6 +270,7 @@ const translations: Record<Language, Translations> = {
       govServices: 'সরকারি সেবা',
       privateServices: 'বেসরকারি সেবা',
       communityServices: 'কমিউনিটি সেবা',
+      helplines: 'জাতীয় হেল্পলাইন',
       about: 'আমাদের সম্পর্কে',
       contact: 'যোগাযোগ',
       privacy: 'গোপনীয়তা নীতি',

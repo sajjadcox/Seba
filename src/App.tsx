@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react';
 import { LanguageProvider, useLanguage } from './context/LanguageContext';
+import { ThemeProvider } from './context/ThemeContext';
 import { useRouter } from './hooks/useRouter';
 import { Header } from './components/Header';
 import { Footer } from './components/Footer';
@@ -8,6 +9,7 @@ import { CategoriesPage } from './pages/CategoriesPage';
 import { CategoryDetailPage } from './pages/CategoryDetailPage';
 import { ServicesPage } from './pages/ServicesPage';
 import { ServiceDetailPage } from './pages/ServiceDetailPage';
+import { HelplinesPage } from './pages/HelplinesPage';
 import { AboutPage } from './pages/AboutPage';
 import { ContactPage } from './pages/ContactPage';
 import { PrivacyPage } from './pages/PrivacyPage';
@@ -36,6 +38,8 @@ const AppContent: React.FC = () => {
       if (srv) {
         title = `${srv.name[language]} | ${t.siteName}`;
       }
+    } else if (route.name === 'helplines') {
+      title = `${t.nav.helplines} | ${t.siteName}`;
     } else if (route.name === 'search') {
       title = `${t.search.resultsFor} "${route.query}" | ${t.siteName}`;
     } else if (route.name === 'about') {
@@ -76,6 +80,8 @@ const AppContent: React.FC = () => {
         );
       case 'service':
         return <ServiceDetailPage slug={route.slug} onNavigate={navigate} />;
+      case 'helplines':
+        return <HelplinesPage onNavigate={navigate} />;
       case 'search':
         return (
           <ServicesPage
@@ -100,7 +106,7 @@ const AppContent: React.FC = () => {
   };
 
   return (
-    <div className="min-h-screen flex flex-col bg-slate-50 text-slate-900">
+    <div className="min-h-screen flex flex-col bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 transition-colors duration-200">
       <Header onNavigate={navigate} currentPath={pathname} />
       <main className="flex-1 w-full">{renderCurrentPage()}</main>
       <Footer onNavigate={navigate} />
@@ -110,8 +116,10 @@ const AppContent: React.FC = () => {
 
 export default function App() {
   return (
-    <LanguageProvider>
-      <AppContent />
-    </LanguageProvider>
+    <ThemeProvider>
+      <LanguageProvider>
+        <AppContent />
+      </LanguageProvider>
+    </ThemeProvider>
   );
 }

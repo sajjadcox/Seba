@@ -6,6 +6,7 @@ export type Route =
   | { name: 'category'; slug: string; subSlug?: string }
   | { name: 'services' }
   | { name: 'service'; slug: string }
+  | { name: 'helplines' }
   | { name: 'search'; query: string }
   | { name: 'about' }
   | { name: 'contact' }
@@ -13,8 +14,43 @@ export type Route =
   | { name: 'disclaimer' }
   | { name: 'not_found' };
 
-export function parseRoute(pathname: string, search: string): Route {
-  const cleanPath = pathname.replace(/\/+$/, '') || '/';
+/**
+ * Normalizes the path by removing trailing slashes, hash routing prefixes,
+ * and any GitHub Pages subpath prefix (e.g. /repo-name/services -> /services).
+ */
+export function getNormalizedPath(pathname: string, hash: string): string {
+  // If hash routing is used (e.g. #/services or #/categories)
+  if (hash && hash.startsWith('#/')) {
+    return hash.slice(1).replace(/\/+$/, '') || '/';
+  }
+
+  let clean = pathname.replace(/\/+$/, '') || '/';
+
+  // If deployed under a GitHub Pages subdirectory (e.g. /<repo>/...)
+  // We check if the path starts with a known route; if not, strip the first segment
+  const knownPrefixes = [
+    'categories',
+    'services',
+    'helplines',
+    'search',
+    'about',
+    'contact',
+    'privacy',
+    'disclaimer',
+  ];
+
+  const segments = clean.split('/').filter(Boolean);
+  if (segments.length > 0 && !knownPrefixes.includes(segments[0])) {
+    // First segment is likely the repo name on GitHub Pages
+    clean = '/' + segments.slice(1).join('/');
+    if (clean === '') clean = '/';
+  }
+
+  return clean;
+}
+
+export function parseRoute(pathname: string, search: string, hash: string = ''): Route {
+  const cleanPath = getNormalizedPath(pathname, hash);
   const searchParams = new URLSearchParams(search);
 
   if (cleanPath === '/' || cleanPath === '') {
@@ -44,6 +80,10 @@ export function parseRoute(pathname: string, search: string): Route {
       name: 'service',
       slug: serviceMatch[1],
     };
+  }
+
+  if (cleanPath === '/helplines') {
+    return { name: 'helplines' };
   }
 
   if (cleanPath === '/search') {
@@ -76,6 +116,7 @@ export function useRouter() {
   const [currentLocation, setCurrentLocation] = useState({
     pathname: window.location.pathname,
     search: window.location.search,
+    hash: window.location.hash,
   });
 
   useEffect(() => {
@@ -83,24 +124,50 @@ export function useRouter() {
       setCurrentLocation({
         pathname: window.location.pathname,
         search: window.location.search,
+        hash: window.location.hash,
       });
       window.scrollTo({ top: 0, behavior: 'smooth' });
     };
 
     window.addEventListener('popstate', handlePopState);
-    return () => window.removeEventListener('popstate', handlePopState);
+    window.addEventListener('hashchange', handlePopState);
+    return () => {
+      window.removeEventListener('popstate', handlePopState);
+      window.removeEventListener('hashchange', handlePopState);
+    };
   }, []);
 
   const navigate = useCallback((to: string, options?: { replace?: boolean }) => {
-    if (options?.replace) {
-      window.history.replaceState({}, '', to);
-    } else {
-      window.history.pushState({}, '', to);
+    // Preserve any existing repo base if on GitHub Pages
+    const segments = window.location.pathname.split('/').filter(Boolean);
+    const knownPrefixes = [
+      'categories',
+      'services',
+      'helplines',
+      'search',
+      'about',
+      'contact',
+      'privacy',
+      'disclaimer',
+    ];
+    let basePath = '';
+    if (segments.length > 0 && !knownPrefixes.includes(segments[0])) {
+      basePath = `/${segments[0]}`;
     }
+
+    const targetUrl = `${basePath}${to.startsWith('/') ? to : `/${to}`}`;
+
+    if (options?.replace) {
+      window.history.replaceState({}, '', targetUrl);
+    } else {
+      window.history.pushState({}, '', targetUrl);
+    }
+
     const [pathPart, queryPart] = to.split('?');
     setCurrentLocation({
       pathname: pathPart || '/',
       search: queryPart ? `?${queryPart}` : '',
+      hash: window.location.hash,
     });
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }, []);
@@ -111,13 +178,14 @@ export function useRouter() {
   );
 
   const route = useMemo(
-    () => parseRoute(currentLocation.pathname, currentLocation.search),
-    [currentLocation.pathname, currentLocation.search]
+    () => parseRoute(currentLocation.pathname, currentLocation.search, currentLocation.hash),
+    [currentLocation.pathname, currentLocation.search, currentLocation.hash]
   );
 
   return {
     pathname: currentLocation.pathname,
     search: currentLocation.search,
+    hash: currentLocation.hash,
     searchParams,
     route,
     navigate,

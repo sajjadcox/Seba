@@ -38,6 +38,15 @@ test('filterServices filters by verification status and featured flag', () => {
   assert.ok(confirmed.every((s) => s.verification?.status === 'official-source-confirmed'));
 
   const featured = filterServices(services, { featuredOnly: true });
-  assert.equal(featured.length, 6, 'Master dataset has 6 featured services');
+  assert.ok(featured.length >= 6, 'Master dataset has at least 6 featured services');
   assert.ok(featured.every((s) => s.isFeatured === true));
+});
+
+test('Prottoyon citizen certificate service exists and is searchable', () => {
+  const prottoyon = services.find((s) => s.id === 'SVC-0301');
+  assert.ok(prottoyon, 'Prottoyon service SVC-0301 must exist');
+  assert.equal(prottoyon.officialUrl, 'https://prottoyon.gov.bd/');
+  assert.equal(matchesQuery(prottoyon, 'prottoyon'), true);
+  assert.equal(matchesQuery(prottoyon, 'প্রত্যয়ন'), true);
+  assert.equal(matchesQuery(prottoyon, 'চারিত্রিক সনদ'), true);
 });

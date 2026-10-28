@@ -110,18 +110,18 @@ export const ServicesPage: React.FC<ServicesPageProps> = ({
       <Breadcrumbs items={breadcrumbs} onNavigate={onNavigate} />
 
       {/* Header Bar */}
-      <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-4 pb-6 mb-6 border-b border-slate-200">
+      <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-4 pb-6 mb-6 border-b border-slate-200 dark:border-slate-800">
         <div>
-          <div className="flex items-center gap-2 text-emerald-700 mb-1">
+          <div className="flex items-center gap-2 text-emerald-700 dark:text-emerald-400 mb-1">
             <LayoutGrid size={18} />
             <span className="text-xs font-bold uppercase tracking-wider">
               {filters.sector !== 'all' ? filters.sector : (language === 'bn' ? 'সকল সেবা' : 'All Services')}
             </span>
           </div>
-          <h1 className="text-2xl sm:text-4xl font-extrabold text-slate-900 tracking-tight">
+          <h1 className="text-2xl sm:text-4xl font-extrabold text-slate-900 dark:text-white tracking-tight">
             {pageTitle}
           </h1>
-          <p className="text-xs sm:text-sm text-slate-600 mt-1 max-w-2xl leading-relaxed">
+          <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 mt-1 max-w-2xl leading-relaxed">
             {pageSubtitle}
           </p>
         </div>

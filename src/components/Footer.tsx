@@ -117,6 +117,15 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
                   </a>
                 </li>
               ))}
+              <li className="pt-1.5">
+                <button
+                  type="button"
+                  onClick={() => onNavigate('/helplines')}
+                  className="text-xs font-bold text-emerald-400 hover:text-emerald-300 transition-colors cursor-pointer"
+                >
+                  {language === 'bn' ? 'সকল জরুরি হটলাইন (২০+) দেখুন →' : 'View All Helplines (20+) →'}
+                </button>
+              </li>
             </ul>
           </div>
 

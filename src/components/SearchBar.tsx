@@ -66,11 +66,11 @@ export const SearchBar: React.FC<SearchBarProps> = ({
     <div className="w-full">
       <form
         onSubmit={handleSubmit}
-        className={`relative flex items-center w-full transition-all duration-200 bg-white border border-slate-300 rounded-xl shadow-xs focus-within:ring-2 focus-within:ring-emerald-600 focus-within:border-emerald-600 hover:border-slate-400 ${
+        className={`relative flex items-center w-full transition-all duration-200 bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-750 rounded-xl shadow-xs focus-within:ring-2 focus-within:ring-emerald-500 focus-within:border-emerald-500 hover:border-slate-400 dark:hover:border-slate-600 ${
           isLarge ? 'p-1.5' : 'p-1'
         }`}
       >
-        <div className={`flex items-center justify-center text-slate-400 pl-3 shrink-0 ${isLarge ? 'text-emerald-700' : ''}`}>
+        <div className={`flex items-center justify-center text-slate-400 dark:text-slate-500 pl-3 shrink-0 ${isLarge ? 'text-emerald-700 dark:text-emerald-400' : ''}`}>
           <Search size={isLarge ? 22 : 18} />
         </div>
 
@@ -80,7 +80,7 @@ export const SearchBar: React.FC<SearchBarProps> = ({
           onChange={(e) => setQuery(e.target.value)}
           placeholder={placeholder || t.search.placeholder}
           autoFocus={autoFocus}
-          className={`w-full px-3 py-2 bg-transparent text-slate-900 placeholder:text-slate-400 focus:outline-hidden ${
+          className={`w-full px-3 py-2 bg-transparent text-slate-900 dark:text-white placeholder:text-slate-400 dark:placeholder:text-slate-500 focus:outline-hidden ${
             isLarge ? 'text-base sm:text-lg' : 'text-sm'
           }`}
           aria-label={t.search.placeholder}
@@ -90,7 +90,7 @@ export const SearchBar: React.FC<SearchBarProps> = ({
           <button
             type="button"
             onClick={handleClear}
-            className="p-1.5 mr-1 text-slate-400 hover:text-slate-600 rounded-full hover:bg-slate-100 transition-colors"
+            className="p-1.5 mr-1 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 rounded-full hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors"
             title={t.search.clearSearch}
             aria-label={t.search.clearSearch}
           >
@@ -111,7 +111,7 @@ export const SearchBar: React.FC<SearchBarProps> = ({
 
       {showQuickTags && (
         <div className="flex flex-wrap items-center gap-2 mt-3 pt-1 text-xs">
-          <span className="text-slate-500 font-medium">{t.search.quickTagsLabel}</span>
+          <span className="text-slate-500 dark:text-slate-400 font-medium">{t.search.quickTagsLabel}</span>
           <div className="flex flex-wrap gap-1.5">
             {quickTags.map((tag) => (
               <button
@@ -121,7 +121,7 @@ export const SearchBar: React.FC<SearchBarProps> = ({
                   setQuery(tag.query);
                   onSearch(tag.query);
                 }}
-                className="px-2.5 py-1 text-xs font-medium text-slate-700 bg-slate-100 hover:bg-emerald-50 hover:text-emerald-800 hover:border-emerald-300 border border-slate-200/80 rounded-full transition-colors cursor-pointer"
+                className="px-2.5 py-1 text-xs font-medium text-slate-700 dark:text-slate-300 bg-slate-100 dark:bg-slate-850 hover:bg-emerald-50 dark:hover:bg-emerald-950/60 hover:text-emerald-800 dark:hover:text-emerald-300 hover:border-emerald-300 dark:hover:border-emerald-700 border border-slate-200/80 dark:border-slate-800 rounded-full transition-colors cursor-pointer"
               >
                 {tag.label}
               </button>
