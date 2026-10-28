@@ -1,0 +1,229 @@
+[
+  {
+    "id": "SRC-001",
+    "organization": "Government of Bangladesh",
+    "sourceName": "Bangladesh National Portal",
+    "sourceUrl": "https://bangladesh.gov.bd/",
+    "sourceType": "official-government-directory",
+    "trustLevel": "primary",
+    "evidenceNote": "National portal lists government offices and services; its directory notes it may not include every government body.",
+    "reference": "turn436540search5"
+  },
+  {
+    "id": "SRC-002",
+    "organization": "Bangladesh Public Procurement Authority",
+    "sourceName": "BPPA official website links to e-GP",
+    "sourceUrl": "https://bppa.gov.bd/e-gp.html",
+    "sourceType": "official-agency-page",
+    "trustLevel": "primary",
+    "evidenceNote": "BPPA page identifies e-GP address as eprocure.gov.bd.",
+    "reference": "turn436540search0"
+  },
+  {
+    "id": "SRC-003",
+    "organization": "National Board of Revenue",
+    "sourceName": "NBR official website",
+    "sourceUrl": "https://nbr.gov.bd/",
+    "sourceType": "official-agency-website",
+    "trustLevel": "primary",
+    "evidenceNote": "NBR website contains e-services links.",
+    "reference": "turn436540search21"
+  },
+  {
+    "id": "SRC-004",
+    "organization": "National Board of Revenue",
+    "sourceName": "NBR e-Return portal",
+    "sourceUrl": "https://www.etaxnbr.gov.bd/",
+    "sourceType": "official-service-portal",
+    "trustLevel": "primary",
+    "evidenceNote": "Portal lists e-TIN, e-Return and tax payment services.",
+    "reference": "turn436540search3"
+  },
+  {
+    "id": "SRC-005",
+    "organization": "Department of Health Services",
+    "sourceName": "Directorate General of Health Services",
+    "sourceUrl": "https://dghs.gov.bd/",
+    "sourceType": "official-agency-website",
+    "trustLevel": "primary",
+    "evidenceNote": "DGHS official portal.",
+    "reference": "turn436540search15"
+  },
+  {
+    "id": "SRC-006",
+    "organization": "Health Services Division / DGHS",
+    "sourceName": "Health Batayon 16263",
+    "sourceUrl": "https://16263.dghs.gov.bd/",
+    "sourceType": "official-service-portal",
+    "trustLevel": "primary",
+    "evidenceNote": "Page describes government health helpline operated under DGHS MIS.",
+    "reference": "turn270561search3"
+  },
+  {
+    "id": "SRC-007",
+    "organization": "Bangladesh Road Transport Authority",
+    "sourceName": "BRTA Service Portal",
+    "sourceUrl": "https://www.bsp.brta.gov.bd/",
+    "sourceType": "official-service-portal",
+    "trustLevel": "primary",
+    "evidenceNote": "BRTA portal lists licence and vehicle services.",
+    "reference": "turn270561search4"
+  },
+  {
+    "id": "SRC-008",
+    "organization": "Bangladesh Railway",
+    "sourceName": "Railway e-ticket",
+    "sourceUrl": "https://eticket.railway.gov.bd/",
+    "sourceType": "official-service-portal",
+    "trustLevel": "primary",
+    "evidenceNote": "National portal railway e-ticket service entry gives this URL.",
+    "reference": "turn270561search6"
+  },
+  {
+    "id": "SRC-009",
+    "organization": "Fire Service and Civil Defence",
+    "sourceName": "Fire Service official website",
+    "sourceUrl": "https://fireservice.gov.bd/",
+    "sourceType": "official-agency-website",
+    "trustLevel": "primary",
+    "evidenceNote": "Official page lists fire licensing and emergency hotline 102.",
+    "reference": "turn270561search7"
+  },
+  {
+    "id": "SRC-010",
+    "organization": "Bangladesh Public Procurement Authority",
+    "sourceName": "Bangladesh e-GP",
+    "sourceUrl": "https://www.eprocure.gov.bd/",
+    "sourceType": "official-service-portal",
+    "trustLevel": "primary",
+    "evidenceNote": "Address identified by BPPA official e-GP page.",
+    "reference": "turn436540search0"
+  },
+  {
+    "id": "SRC-011",
+    "organization": "Bangladesh National Digital Architecture",
+    "sourceName": "BNDA",
+    "sourceUrl": "https://bnda.gov.bd/",
+    "sourceType": "official-agency-website",
+    "trustLevel": "primary",
+    "evidenceNote": "Official national digital architecture portal.",
+    "reference": "turn307251search14"
+  },
+  {
+    "id": "SRC-012",
+    "organization": "Ministry of Expatriates' Welfare and Overseas Employment",
+    "sourceName": "Overseas Employment Platform",
+    "sourceUrl": "https://www.oep.gov.bd/",
+    "sourceType": "official-service-portal",
+    "trustLevel": "primary",
+    "evidenceNote": "Official overseas employment platform surfaced in government service sources.",
+    "reference": "turn307251search0"
+  },
+  {
+    "id": "SRC-013",
+    "organization": "University Grants Commission of Bangladesh",
+    "sourceName": "Public Universities Directory",
+    "sourceUrl": "https://www.ugc.gov.bd/universities/public-universities",
+    "sourceType": "official-government-directory",
+    "trustLevel": "primary",
+    "evidenceNote": "UGC page lists public universities and their websites.",
+    "reference": "turn270561search2"
+  },
+  {
+    "id": "SRC-014",
+    "organization": "Dhaka Education Board",
+    "sourceName": "Education Board Result System",
+    "sourceUrl": "https://result.dhakaeducationboard.gov.bd/v2/home",
+    "sourceType": "official-service-portal",
+    "trustLevel": "primary",
+    "evidenceNote": "Official Dhaka Education Board result portal.",
+    "reference": "turn270561search1"
+  },
+  {
+    "id": "SRC-015",
+    "organization": "Bangladesh National Portal",
+    "sourceName": "National portal e-services",
+    "sourceUrl": "https://bangladesh.gov.bd/views/all-eservices-in-bangladesh/",
+    "sourceType": "official-government-directory",
+    "trustLevel": "primary",
+    "evidenceNote": "Official national portal lists e-services and service categories.",
+    "reference": "turn436540search7"
+  },
+  {
+    "id": "SRC-016",
+    "organization": "Department of Disaster Management",
+    "sourceName": "Department of Disaster Management",
+    "sourceUrl": "https://ddm.portal.gov.bd/",
+    "sourceType": "official-agency-website",
+    "trustLevel": "primary",
+    "evidenceNote": "Official disaster management portal lists alerts and related resources.",
+    "reference": "turn270561search9"
+  },
+  {
+    "id": "SRC-017",
+    "organization": "Dhaka Electricity Supply Company PLC",
+    "sourceName": "DESCO",
+    "sourceUrl": "https://desco.gov.bd/",
+    "sourceType": "official-agency-website",
+    "trustLevel": "primary",
+    "evidenceNote": "Official site lists e-bill and connection services.",
+    "reference": "turn270561search11"
+  },
+  {
+    "id": "SRC-018",
+    "organization": "Ministry of Health and Family Welfare",
+    "sourceName": "Health Services Division",
+    "sourceUrl": "https://hsd.gov.bd/",
+    "sourceType": "official-agency-website",
+    "trustLevel": "primary",
+    "evidenceNote": "Official page lists government hotlines including 999, 333 and 16263.",
+    "reference": "turn270561search16"
+  },
+  {
+    "id": "SRC-019",
+    "organization": "Ministry of Information and Broadcasting",
+    "sourceName": "Ministry and divisions directory",
+    "sourceUrl": "https://moi.gov.bd/views/ministry-and-directorate-list/",
+    "sourceType": "official-government-directory",
+    "trustLevel": "primary",
+    "evidenceNote": "Government page reports 57 ministries/divisions.",
+    "reference": "turn436540search4"
+  },
+  {
+    "id": "SRC-020",
+    "organization": "Bangladesh Public Procurement Authority",
+    "sourceName": "Government websites links",
+    "sourceUrl": "https://bangla.bppa.gov.bd/important-links/links-to-bangladesh-government-websites.html",
+    "sourceType": "official-government-directory",
+    "trustLevel": "primary",
+    "evidenceNote": "BPPA lists links to Bangladesh government websites.",
+    "reference": "turn436540search2"
+  },
+  {
+    "id": "SRC-PRIVATE-001",
+    "organization": "Private and community service providers",
+    "sourceName": "Provider-owned websites / brand source list",
+    "sourceUrl": null,
+    "sourceType": "provider-owned-source",
+    "trustLevel": "unverified-until-reviewed",
+    "evidenceNote": "Each private service must be checked individually against its provider-owned site and legal/brand identity; this source record is not proof for every URL."
+  },
+  {
+    "id": "SRC-PRIVATE-002",
+    "organization": "Private service providers and public resource directories",
+    "sourceName": "Provider-owned sites and category research",
+    "sourceUrl": "https://digitalcentre.gov.bd/page/core-initiatives",
+    "sourceType": "category-research-reference",
+    "trustLevel": "category-reference-only",
+    "evidenceNote": "Digital Centre source describes a mix of government and private services and supports broad category coverage. It does not independently verify every listed provider URL."
+  },
+  {
+    "id": "SRC-023",
+    "organization": "Government of Bangladesh and relevant public agencies",
+    "sourceName": "Official government service research references",
+    "sourceUrl": "https://bangladesh.gov.bd/",
+    "sourceType": "official-government-research-reference",
+    "trustLevel": "primary-reference",
+    "evidenceNote": "Used to identify additional public service candidates. This source record does not prove that every candidate URL is live, official, or currently available; direct endpoint verification remains required."
+  }
+]

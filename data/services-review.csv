@@ -1,0 +1,231 @@
+id,name_en,name_bn,sector,category_id,subcategory_id,official_url,verification_status,official_source_confirmed,content_checked,last_verified_at,is_active,source_ids
+SVC-0001,Bangladesh National Portal,বাংলাদেশ জাতীয় তথ্য বাতায়ন,government-or-public,CAT-001,,https://bangladesh.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-001
+SVC-0002,All Government e-Services,সকল সরকারি ই-সেবা,government-or-public,CAT-001,,https://bangladesh.gov.bd/views/all-eservices-in-bangladesh/,official-source-confirmed,True,False,2026-10-28,True,SRC-015
+SVC-0003,Government Offices Directory,সরকারি দপ্তরের তালিকা,government-or-public,CAT-001,,https://bangladesh.gov.bd/views/ministry-and-directorate-list/Ministries-and-Divisions/,official-source-confirmed,True,False,2026-10-28,True,SRC-001
+SVC-0004,myGov Services,মাইগভ সেবা,government-or-public,CAT-001,,https://www.mygov.bd/services,official-source-confirmed,True,False,2026-10-28,True,SRC-015
+SVC-0005,e-Passport Online Portal,ই-পাসপোর্ট অনলাইন পোর্টাল,government-or-public,CAT-002,,https://www.epassport.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-001
+SVC-0006,Overseas Employment Platform,বিদেশে কর্মসংস্থান প্ল্যাটফর্ম,government-or-public,CAT-011,,https://www.oep.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-012
+SVC-0007,National Board of Revenue,জাতীয় রাজস্ব বোর্ড,government-or-public,CAT-007,,https://nbr.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-003
+SVC-0008,NBR e-Return,এনবিআর ই-রিটার্ন,government-or-public,CAT-007,,https://www.etaxnbr.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-004
+SVC-0009,Bangladesh Public Procurement Authority,বাংলাদেশ পাবলিক প্রকিউরমেন্ট অথরিটি,government-or-public,CAT-039,,https://bppa.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-002
+SVC-0010,e-Government Procurement (e-GP),ই-গভর্নমেন্ট প্রকিউরমেন্ট,government-or-public,CAT-039,,https://www.eprocure.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-010
+SVC-0011,Directorate General of Health Services,স্বাস্থ্য অধিদপ্তর,government-or-public,CAT-005,,https://dghs.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-005
+SVC-0012,Health Batayon 16263,স্বাস্থ্য বাতায়ন ১৬২৬৩,government-or-public,CAT-005,,https://16263.dghs.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-006
+SVC-0013,Bangladesh Road Transport Authority,বাংলাদেশ সড়ক পরিবহন কর্তৃপক্ষ,government-or-public,CAT-010,,https://brta.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-007
+SVC-0014,BRTA Service Portal,বিআরটিএ সার্ভিস পোর্টাল,government-or-public,CAT-010,,https://www.bsp.brta.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-007
+SVC-0015,Bangladesh Railway,বাংলাদেশ রেলওয়ে,government-or-public,CAT-042,,https://railway.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-008
+SVC-0016,Bangladesh Railway e-Ticket,বাংলাদেশ রেলওয়ে ই-টিকিট,government-or-public,CAT-059,,https://eticket.railway.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-008
+SVC-0017,Fire Service and Civil Defence,ফায়ার সার্ভিস ও সিভিল ডিফেন্স,government-or-public,CAT-012,,https://fireservice.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-009
+SVC-0018,Bangladesh National Digital Architecture,বাংলাদেশ ন্যাশনাল ডিজিটাল আর্কিটেকচার,government-or-public,CAT-023,,https://bnda.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-011
+SVC-0019,UGC Public Universities Directory,ইউজিসি পাবলিক বিশ্ববিদ্যালয়ের তালিকা,government-or-public,CAT-004,,https://www.ugc.gov.bd/universities/public-universities,official-source-confirmed,True,False,2026-10-28,True,SRC-013
+SVC-0020,Dhaka Education Board Result System,ঢাকা শিক্ষা বোর্ড ফলাফল সিস্টেম,government-or-public,CAT-004,,https://result.dhakaeducationboard.gov.bd/v2/home,official-source-confirmed,True,False,2026-10-28,True,SRC-014
+SVC-0021,Department of Disaster Management,দুর্যোগ ব্যবস্থাপনা অধিদপ্তর,government-or-public,CAT-050,,https://ddm.portal.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-016
+SVC-0022,DESCO,ডেসকো,government-or-public,CAT-016,,https://desco.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-017
+SVC-0023,Ministry and Division Directory,মন্ত্রণালয় ও বিভাগের তালিকা,government-or-public,CAT-013,,https://moi.gov.bd/views/ministry-and-directorate-list/,official-source-confirmed,True,False,2026-10-28,True,SRC-019
+SVC-0024,Government Website Links,সরকারি ওয়েবসাইটের লিংক,government-or-public,CAT-001,,https://bangla.bppa.gov.bd/important-links/links-to-bangladesh-government-websites.html,official-source-confirmed,True,False,2026-10-28,True,SRC-020
+SVC-0025,Ministry of Land,ভূমি মন্ত্রণালয়,government-or-public,CAT-006,,https://land.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-001
+SVC-0026,E-Mutation,ই-নামজারি,government-or-public,CAT-006,,https://mutation.land.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-001
+SVC-0027,Land Development Tax Portal,ভূমি উন্নয়ন কর পোর্টাল,government-or-public,CAT-006,,https://portal.ldtax.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-001
+SVC-0028,Land Records and Maps,ভূমি রেকর্ড ও মানচিত্র,government-or-public,CAT-006,,https://dlrms.land.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-001
+SVC-0029,Laws of Bangladesh,বাংলাদেশের আইন,government-or-public,CAT-014,,http://bdlaws.minlaw.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-001
+SVC-0030,Bangladesh Bank,বাংলাদেশ ব্যাংক,government-or-public,CAT-008,,https://www.bb.org.bd/,needs-review,False,False,2026-10-28,True,SRC-020
+SVC-0031,BPSC Recruitment Portal,বিপিএসসি নিয়োগ পোর্টাল,government-or-public,CAT-003,,https://bpsc.teletalk.com.bd/,needs-review,False,False,2026-10-28,True,SRC-020
+SVC-0032,Education Board Results,শিক্ষা বোর্ডের ফলাফল,government-or-public,CAT-004,,http://educationboardresults.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-014
+SVC-0033,National Digital Services,জাতীয় ডিজিটাল সেবা,government-or-public,CAT-023,,https://www.mygov.bd/services,official-source-confirmed,True,False,2026-10-28,True,SRC-015
+SVC-0034,Department of Immigration and Passports,ইমিগ্রেশন ও পাসপোর্ট অধিদপ্তর,government-or-public,CAT-051,,https://dip.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-001
+SVC-0035,Bangladesh Police,বাংলাদেশ পুলিশ,government-or-public,CAT-012,,https://www.police.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-020
+SVC-0036,National Emergency Service 999,জাতীয় জরুরি সেবা ৯৯৯,government-or-public,CAT-012,,https://999.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-018
+SVC-0037,National Identity Card Services,জাতীয় পরিচয়পত্র সেবা,government-or-public,CAT-002,,https://services.nidw.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-020
+SVC-0038,Birth and Death Registration,জন্ম ও মৃত্যু নিবন্ধন,government-or-public,CAT-002,,https://bdris.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-001
+SVC-0039,Bangladesh Meteorological Department,বাংলাদেশ আবহাওয়া অধিদপ্তর,government-or-public,CAT-021,,https://bmd.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-016
+SVC-0040,Krishi Information Portal,কৃষি তথ্য পোর্টাল,government-or-public,CAT-018,,https://krishi.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-015
+SVC-0041,Department of Agricultural Marketing,কৃষি বিপণন অধিদপ্তর,government-or-public,CAT-058,,https://dam.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-015
+SVC-0042,Registrar of Joint Stock Companies and Firms,যৌথ মূলধন কোম্পানি ও ফার্মসমূহের পরিদপ্তর,government-or-public,CAT-009,,https://roc.gov.bd/,needs-review,False,False,2026-10-28,True,SRC-020
+SVC-0043,Fire Licence Services,ফায়ার লাইসেন্স সেবা,government-or-public,CAT-055,,https://fireservice.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-009
+SVC-0044,Public University Directory,পাবলিক বিশ্ববিদ্যালয়ের ডিরেক্টরি,government-or-public,CAT-004,,https://www.ugc.gov.bd/universities/public-universities,official-source-confirmed,True,False,2026-10-28,True,SRC-013
+SVC-0045,Disaster Forecasts and Warnings,দুর্যোগের পূর্বাভাস ও সতর্কতা,government-or-public,CAT-050,,https://ddm.portal.gov.bd/,official-source-confirmed,True,False,2026-10-28,True,SRC-016
+PLH-CAT-015,Elections & Voter Services Directory,নির্বাচন ও ভোটার সেবা ডিরেক্টরি,government-or-public,CAT-015,SUB-030,,not-researched,False,False,,False,
+PLH-CAT-017,"Gas, Water & Utilities Directory","গ্যাস, পানি ও ইউটিলিটি ডিরেক্টরি",government-or-public,CAT-017,SUB-031,,not-researched,False,False,,False,
+PLH-CAT-019,Livestock & Veterinary Services Directory,প্রাণিসম্পদ ও পশুচিকিৎসা ডিরেক্টরি,government-or-public,CAT-019,SUB-032,,not-researched,False,False,,False,
+PLH-CAT-020,Fisheries & Marine Resources Directory,মৎস্য ও সামুদ্রিক সম্পদ ডিরেক্টরি,government-or-public,CAT-020,SUB-033,,not-researched,False,False,,False,
+PLH-CAT-022,Local Government & Municipal Services Directory,স্থানীয় সরকার ও পৌরসেবা ডিরেক্টরি,government-or-public,CAT-022,SUB-034,,not-researched,False,False,,False,
+PLH-CAT-024,Cybersecurity & Digital Safety Directory,সাইবার নিরাপত্তা ও ডিজিটাল সুরক্ষা ডিরেক্টরি,government-or-public,CAT-024,SUB-035,,not-researched,False,False,,False,
+PLH-CAT-025,"Labour, Training & Skills Directory","শ্রম, প্রশিক্ষণ ও দক্ষতা ডিরেক্টরি",government-or-public,CAT-025,SUB-036,,not-researched,False,False,,False,
+PLH-CAT-026,Social Welfare & Allowances Directory,সমাজকল্যাণ ও ভাতা ডিরেক্টরি,government-or-public,CAT-026,SUB-027,,not-researched,False,False,,False,
+PLH-CAT-027,"Women, Children & Family Directory","নারী, শিশু ও পরিবার ডিরেক্টরি",government-or-public,CAT-027,SUB-037,,not-researched,False,False,,False,
+PLH-CAT-028,"Food, Food Safety & Consumer Rights Directory","খাদ্য, খাদ্যনিরাপত্তা ও ভোক্তা অধিকার ডিরেক্টরি",government-or-public,CAT-028,SUB-038,,not-researched,False,False,,False,
+PLH-CAT-029,"Statistics, Census & Open Data Directory","পরিসংখ্যান, জনশুমারি ও উন্মুক্ত তথ্য ডিরেক্টরি",government-or-public,CAT-029,SUB-039,,not-researched,False,False,,False,
+PLH-CAT-030,Foreign Affairs & Diplomacy Directory,পররাষ্ট্র ও কূটনীতি ডিরেক্টরি,government-or-public,CAT-030,SUB-040,,not-researched,False,False,,False,
+PLH-CAT-031,"Tourism, Culture & Heritage Directory","পর্যটন, সংস্কৃতি ও ঐতিহ্য ডিরেক্টরি",government-or-public,CAT-031,SUB-041,,not-researched,False,False,,False,
+PLH-CAT-032,Religious Affairs & Pilgrimage Directory,ধর্মীয় বিষয় ও হজ ডিরেক্টরি,government-or-public,CAT-032,SUB-042,,not-researched,False,False,,False,
+PLH-CAT-033,Defence & Liberation War Directory,প্রতিরক্ষা ও মুক্তিযুদ্ধ ডিরেক্টরি,government-or-public,CAT-033,SUB-043,,not-researched,False,False,,False,
+PLH-CAT-034,Postal Services & Telecommunications Directory,ডাক ও টেলিযোগাযোগ ডিরেক্টরি,government-or-public,CAT-034,SUB-044,,not-researched,False,False,,False,
+PLH-CAT-035,"Science, Research & Innovation Directory","বিজ্ঞান, গবেষণা ও উদ্ভাবন ডিরেক্টরি",government-or-public,CAT-035,SUB-045,,not-researched,False,False,,False,
+PLH-CAT-036,"Libraries, Archives & Records Directory","গ্রন্থাগার, আর্কাইভ ও নথি ডিরেক্টরি",government-or-public,CAT-036,SUB-046,,not-researched,False,False,,False,
+PLH-CAT-037,Government Media & Publications Directory,সরকারি গণমাধ্যম ও প্রকাশনা ডিরেক্টরি,government-or-public,CAT-037,SUB-047,,not-researched,False,False,,False,
+PLH-CAT-038,"Insurance, Pensions & Retirement Directory","বীমা, পেনশন ও অবসর ডিরেক্টরি",government-or-public,CAT-038,SUB-048,,not-researched,False,False,,False,
+PLH-CAT-040,Human Rights & Legal Protection Directory,মানবাধিকার ও আইনি সুরক্ষা ডিরেক্টরি,government-or-public,CAT-040,SUB-049,,not-researched,False,False,,False,
+PLH-CAT-041,Water Resources & Flood Control Directory,পানি সম্পদ ও বন্যা নিয়ন্ত্রণ ডিরেক্টরি,government-or-public,CAT-041,SUB-050,,not-researched,False,False,,False,
+PLH-CAT-043,"Housing, Construction & Urban Development Directory","আবাসন, নির্মাণ ও নগর উন্নয়ন ডিরেক্টরি",government-or-public,CAT-043,SUB-051,,not-researched,False,False,,False,
+PLH-CAT-044,Minerals & Natural Resources Directory,খনিজ ও প্রাকৃতিক সম্পদ ডিরেক্টরি,government-or-public,CAT-044,SUB-052,,not-researched,False,False,,False,
+PLH-CAT-045,Cooperatives & Rural Development Directory,সমবায় ও গ্রামীণ উন্নয়ন ডিরেক্টরি,government-or-public,CAT-045,SUB-053,,not-researched,False,False,,False,
+PLH-CAT-046,Sports & Youth Development Directory,ক্রীড়া ও যুব উন্নয়ন ডিরেক্টরি,government-or-public,CAT-046,SUB-054,,not-researched,False,False,,False,
+PLH-CAT-047,Intellectual Property & Standards Directory,মেধাস্বত্ব ও মান নিয়ন্ত্রণ ডিরেক্টরি,government-or-public,CAT-047,SUB-055,,not-researched,False,False,,False,
+PLH-CAT-048,"Trade, Export & Import Directory","বাণিজ্য, রপ্তানি ও আমদানি ডিরেক্টরি",government-or-public,CAT-048,SUB-056,,not-researched,False,False,,False,
+PLH-CAT-049,Public Complaints & Accountability Directory,জনঅভিযোগ ও জবাবদিহি ডিরেক্টরি,government-or-public,CAT-049,SUB-028,,not-researched,False,False,,False,
+PLH-CAT-052,Aviation & Airports Directory,বিমান চলাচল ও বিমানবন্দর ডিরেক্টরি,government-or-public,CAT-052,SUB-058,,not-researched,False,False,,False,
+PLH-CAT-053,Maritime Safety & Coast Guard Directory,সামুদ্রিক নিরাপত্তা ও কোস্ট গার্ড ডিরেক্টরি,government-or-public,CAT-053,SUB-059,,not-researched,False,False,,False,
+PLH-CAT-054,Urban Services & City Corporations Directory,নগরসেবা ও সিটি কর্পোরেশন ডিরেক্টরি,government-or-public,CAT-054,SUB-060,,not-researched,False,False,,False,
+PLH-CAT-056,Public Finance & Budget Transparency Directory,সরকারি অর্থায়ন ও বাজেট স্বচ্ছতা ডিরেক্টরি,government-or-public,CAT-056,SUB-062,,not-researched,False,False,,False,
+PLH-CAT-057,Research Grants & Scholarships Directory,গবেষণা অনুদান ও বৃত্তি ডিরেক্টরি,government-or-public,CAT-057,SUB-063,,not-researched,False,False,,False,
+PLH-CAT-060,Other Essential Public Services Directory,অন্যান্য গুরুত্বপূর্ণ জনসেবা ডিরেক্টরি,government-or-public,CAT-060,SUB-066,,not-researched,False,False,,False,
+PRV-001,Daraz Bangladesh,দারাজ বাংলাদেশ,private-or-community,CAT-061,SUB-067,https://www.daraz.com.bd/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-002,Rokomari,রকমারি,private-or-community,CAT-061,SUB-067,https://www.rokomari.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-003,Aarong,আড়ং,private-or-community,CAT-061,SUB-067,https://www.aarong.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-004,Chaldal,চালডাল,private-or-community,CAT-062,SUB-068,https://chaldal.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-005,Shwapno,স্বপ্ন,private-or-community,CAT-062,SUB-068,https://www.shwapno.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-006,foodpanda Bangladesh,ফুডপান্ডা বাংলাদেশ,private-or-community,CAT-063,SUB-069,https://www.foodpanda.com.bd/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-007,Pathao,পাঠাও,private-or-community,CAT-064,SUB-070,https://pathao.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-008,Uber Bangladesh,উবার বাংলাদেশ,private-or-community,CAT-064,SUB-070,https://www.uber.com/bd/en/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-009,Shohoz,সহজ,private-or-community,CAT-065,SUB-071,https://www.shohoz.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-010,BDTickets,বিডিটিকিটস,private-or-community,CAT-065,SUB-071,https://bdtickets.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-011,GoZayaan,গোজায়ান,private-or-community,CAT-066,SUB-072,https://gozayaan.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-012,ShareTrip,শেয়ারট্রিপ,private-or-community,CAT-066,SUB-072,https://sharetrip.net/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-013,BDFare,বিডিফেয়ার,private-or-community,CAT-066,SUB-072,https://www.bdfare.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-014,Sundarban Courier Service,সুন্দরবন কুরিয়ার সার্ভিস,private-or-community,CAT-067,SUB-073,https://sundarbancourierltd.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-015,Steadfast Courier,স্টেডফাস্ট কুরিয়ার,private-or-community,CAT-067,SUB-073,https://steadfast.com.bd/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-016,Bdjobs,বিডিজবস,private-or-community,CAT-068,SUB-074,https://www.bdjobs.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-017,LinkedIn Jobs,লিংকডইন জবস,private-or-community,CAT-068,SUB-074,https://www.linkedin.com/jobs/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-018,Upwork,আপওয়ার্ক,private-or-community,CAT-069,SUB-075,https://www.upwork.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-019,Fiverr,ফাইভার,private-or-community,CAT-069,SUB-075,https://www.fiverr.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-020,10 Minute School,১০ মিনিট স্কুল,private-or-community,CAT-070,SUB-076,https://10minuteschool.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-021,Shikho,শিখো,private-or-community,CAT-070,SUB-076,https://shikho.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-022,BoiBazar,বইবাজার,private-or-community,CAT-071,SUB-077,https://www.boibazar.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-023,Star Tech,স্টার টেক,private-or-community,CAT-072,SUB-078,https://www.startech.com.bd/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-024,Ryans Computers,রায়ান্স কম্পিউটারস,private-or-community,CAT-072,SUB-078,https://www.ryans.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-025,Bikroy,বিক্রয়,private-or-community,CAT-073,SUB-079,https://bikroy.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-026,Sheba.xyz,সেবা ডট এক্সওয়াইজেড,private-or-community,CAT-074,SUB-080,https://www.sheba.xyz/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-027,Doctorola,ডক্টরোলা,private-or-community,CAT-075,SUB-081,https://doctorola.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-028,Sasthya Seba,স্বাস্থ্যসেবা,private-or-community,CAT-075,SUB-081,https://sasthyaseba.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-029,BanglaMeds,বাংলামেডস,private-or-community,CAT-076,SUB-082,https://banglameds.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-030,Prothom Alo,প্রথম আলো,private-or-community,CAT-077,SUB-083,https://www.prothomalo.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-031,The Daily Star,দ্য ডেইলি স্টার,private-or-community,CAT-077,SUB-083,https://www.thedailystar.net/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-032,bdnews24.com,বিডিনিউজ২৪.কম,private-or-community,CAT-077,SUB-083,https://bdnews24.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-033,Bangladesh Cricket,বাংলাদেশ ক্রিকেট,private-or-community,CAT-078,SUB-084,https://www.tigercricket.com.bd/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-034,Google Maps,গুগল ম্যাপস,private-or-community,CAT-079,SUB-085,https://maps.google.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-035,Grameenphone,গ্রামীণফোন,private-or-community,CAT-080,SUB-086,https://www.grameenphone.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-036,Robi,রবি,private-or-community,CAT-080,SUB-086,https://www.robi.com.bd/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-037,Banglalink,বাংলালিংক,private-or-community,CAT-080,SUB-086,https://www.banglalink.net/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-038,Teletalk,টেলিটক,private-or-community,CAT-080,SUB-086,https://www.teletalk.com.bd/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-039,bKash,বিকাশ,private-or-community,CAT-081,SUB-087,https://www.bkash.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-040,Nagad,নগদ,private-or-community,CAT-081,SUB-087,https://nagad.com.bd/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-041,Rocket by Dutch-Bangla Bank,ডাচ্-বাংলা ব্যাংক রকেট,private-or-community,CAT-081,SUB-087,https://www.dutchbanglabank.com/rocket/rocket.html,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-042,BRAC Bank,ব্র্যাক ব্যাংক,private-or-community,CAT-081,SUB-087,https://www.bracbank.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-043,SSLCOMMERZ,এসএসএলকমার্জ,private-or-community,CAT-081,SUB-087,https://sslcommerz.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-044,bKash Bill Pay,বিকাশ বিল পে,private-or-community,CAT-083,SUB-089,https://www.bkash.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-045,BRAC,ব্র্যাক,private-or-community,CAT-084,SUB-090,https://www.brac.net/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-046,JAAGO Foundation,জাগো ফাউন্ডেশন,private-or-community,CAT-084,SUB-090,https://jaago.com.bd/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-047,Bproperty,বিপ্রপার্টি,private-or-community,CAT-085,SUB-091,https://www.bproperty.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-048,BDHousing,বিডিহাউজিং,private-or-community,CAT-085,SUB-091,https://www.bdhousing.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-049,Google Workspace,গুগল ওয়ার্কস্পেস,private-or-community,CAT-088,SUB-094,https://workspace.google.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-050,Canva,ক্যানভা,private-or-community,CAT-090,SUB-096,https://www.canva.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-051,WordPress,ওয়ার্ডপ্রেস,private-or-community,CAT-089,SUB-095,https://wordpress.org/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-052,Namecheap,নেমচিপ,private-or-community,CAT-089,SUB-095,https://www.namecheap.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+PRV-053,Ticket Tomorrow,টিকিট টুমরো,private-or-community,CAT-091,SUB-097,https://tickettomorrow.com/,needs-review,False,False,,True,SRC-PRIVATE-001
+EXT-001,bKash Agent Services,বিকাশ এজেন্ট সেবা,private-or-community,CAT-081,SUB-087,https://www.bkash.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-002,Wise,ওয়াইজ,private-or-community,CAT-135,SUB-141,https://wise.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-003,Western Union,ওয়েস্টার্ন ইউনিয়ন,private-or-community,CAT-135,SUB-141,https://www.westernunion.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-004,XE Currency,এক্সই কারেন্সি,private-or-community,CAT-136,SUB-142,https://www.xe.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-005,Xero,জেরো,private-or-community,CAT-093,SUB-099,https://www.xero.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-006,Zoho Books,জোহো বুকস,private-or-community,CAT-093,SUB-099,https://www.zoho.com/books/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-007,Shopify,শপিফাই,private-or-community,CAT-134,SUB-140,https://www.shopify.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-008,WooCommerce,উকমার্স,private-or-community,CAT-134,SUB-140,https://woocommerce.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-009,BASIS,বেসিস,private-or-community,CAT-094,SUB-100,https://basis.org.bd/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-010,BSCIC,বিসিক,private-or-community,CAT-119,SUB-125,https://bscic.gov.bd/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-011,BanglaBiz,বাংলাবিজ,private-or-community,CAT-119,SUB-125,https://banglabiz.gov.bd/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-012,ekSheba Uddokta,একসেবা উদ্যোক্তা,private-or-community,CAT-132,SUB-138,https://eksheba.gov.bd/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-013,BASIS SaaS Directory,বেসিস SaaS ডিরেক্টরি,private-or-community,CAT-094,SUB-100,https://saas.basis.org.bd/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-014,Dealancer,ডিল্যান্সার,private-or-community,CAT-069,SUB-075,https://www.dealancer.cloud/services,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-015,LinkedIn Learning,লিংকডইন লার্নিং,private-or-community,CAT-070,SUB-076,https://www.linkedin.com/learning/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-016,Coursera,কোর্সেরা,private-or-community,CAT-070,SUB-076,https://www.coursera.org/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-017,edX,এডএক্স,private-or-community,CAT-070,SUB-076,https://www.edx.org/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-018,Khan Academy,খান একাডেমি,private-or-community,CAT-070,SUB-076,https://www.khanacademy.org/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-019,Duolingo,ডুওলিঙ্গো,private-or-community,CAT-108,SUB-114,https://www.duolingo.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-020,DeepL Translator,ডিপএল ট্রান্সলেটর,private-or-community,CAT-108,SUB-114,https://www.deepl.com/translator,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-021,Grammarly,গ্রামারলি,private-or-community,CAT-088,SUB-094,https://www.grammarly.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-022,Smallpdf,স্মলপিডিএফ,private-or-community,CAT-115,SUB-121,https://smallpdf.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-023,iLovePDF,আইলাভপিডিএফ,private-or-community,CAT-115,SUB-121,https://www.ilovepdf.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-024,Adobe Acrobat Online,অ্যাডোবি অ্যাক্রোব্যাট অনলাইন,private-or-community,CAT-115,SUB-121,https://www.adobe.com/acrobat/online.html,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-025,remove.bg,রিমুভ.বিজি,private-or-community,CAT-116,SUB-122,https://www.remove.bg/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-026,Photopea,ফটোপিয়া,private-or-community,CAT-116,SUB-122,https://www.photopea.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-027,CapCut,ক্যাপকাট,private-or-community,CAT-116,SUB-122,https://www.capcut.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-028,Buffer,বাফার,private-or-community,CAT-117,SUB-123,https://buffer.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-029,Meta Business Suite,মেটা বিজনেস স্যুট,private-or-community,CAT-117,SUB-123,https://business.facebook.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-030,Google Business Profile,গুগল বিজনেস প্রোফাইল,private-or-community,CAT-132,SUB-138,https://www.google.com/business/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-031,WordPress.com,ওয়ার্ডপ্রেস ডটকম,private-or-community,CAT-118,SUB-124,https://wordpress.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-032,GitHub,গিটহাব,private-or-community,CAT-118,SUB-124,https://github.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-033,Vercel,ভার্সেল,private-or-community,CAT-089,SUB-095,https://vercel.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-034,Cloudflare,ক্লাউডফ্লেয়ার,private-or-community,CAT-089,SUB-095,https://www.cloudflare.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-035,Namecheap Domains,নেমচিপ ডোমেইন,private-or-community,CAT-089,SUB-095,https://www.namecheap.com/domains/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-036,Bikroy Property,বিক্রয় প্রপার্টি,private-or-community,CAT-085,SUB-091,https://bikroy.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-037,Booking.com,বুকিং ডটকম,private-or-community,CAT-066,SUB-072,https://www.booking.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-038,Airbnb,এয়ারবিএনবি,private-or-community,CAT-130,SUB-136,https://www.airbnb.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-039,Tripadvisor,ট্রিপঅ্যাডভাইজর,private-or-community,CAT-138,SUB-144,https://www.tripadvisor.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-040,Google Flights,গুগল ফ্লাইটস,private-or-community,CAT-137,SUB-143,https://www.google.com/travel/flights,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-041,FlightAware,ফ্লাইটঅ্যাওয়ার,private-or-community,CAT-137,SUB-143,https://www.flightaware.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-042,Pathao Food,পাঠাও ফুড,private-or-community,CAT-139,SUB-145,https://pathao.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-043,HungryNaki,হাংরিনাকি,private-or-community,CAT-139,SUB-145,https://hungrynaki.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-044,bKash app and support,বিকাশ অ্যাপ ও সহায়তা,private-or-community,CAT-135,SUB-141,https://www.bkash.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-045,Google Family Link,গুগল ফ্যামিলি লিংক,private-or-community,CAT-098,SUB-104,https://families.google/familylink/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-046,UNICEF Bangladesh,ইউনিসেফ বাংলাদেশ,private-or-community,CAT-098,SUB-104,https://www.unicef.org/bangladesh/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-047,WHO Bangladesh,বিশ্ব স্বাস্থ্য সংস্থা বাংলাদেশ,private-or-community,CAT-075,SUB-081,https://www.who.int/bangladesh,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-048,Legal Aid Resources,আইনি সহায়তা রিসোর্স,private-or-community,CAT-086,SUB-092,https://nlaso.gov.bd/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-049,Google Translate,গুগল ট্রান্সলেট,private-or-community,CAT-108,SUB-114,https://translate.google.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-050,Zoom,জুম,private-or-community,CAT-112,SUB-118,https://zoom.us/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-051,Microsoft Teams,মাইক্রোসফট টিমস,private-or-community,CAT-112,SUB-118,https://www.microsoft.com/microsoft-teams/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-052,Proton Pass,প্রোটন পাস,private-or-community,CAT-114,SUB-120,https://proton.me/pass,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-053,Have I Been Pwned,হ্যাভ আই বিন পনড,private-or-community,CAT-113,SUB-119,https://haveibeenpwned.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-054,Internet Archive,ইন্টারনেট আর্কাইভ,government-or-public,CAT-036,SUB-046,https://archive.org/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-055,OpenStreetMap,ওপেনস্ট্রিটম্যাপ,private-or-community,CAT-079,SUB-085,https://www.openstreetmap.org/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-056,BDTickets Travel,বিডিটিকিটস ট্রাভেল,private-or-community,CAT-065,SUB-071,https://bdtickets.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-057,foodpanda Vendor,ফুডপান্ডা ভেন্ডর,private-or-community,CAT-094,SUB-100,https://www.foodpanda.com.bd/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-058,Daraz Seller Center,দারাজ সেলার সেন্টার,private-or-community,CAT-134,SUB-140,https://sellercenter.daraz.com.bd/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-059,Meta Ad Library,মেটা অ্যাড লাইব্রেরি,private-or-community,CAT-090,SUB-096,https://www.facebook.com/ads/library/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-060,Canva for Education,ক্যানভা ফর এডুকেশন,private-or-community,CAT-129,SUB-135,https://www.canva.com/education/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-061,Coursera Financial Aid,কোর্সেরা আর্থিক সহায়তা,private-or-community,CAT-110,SUB-116,https://www.coursera.org/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-062,Bdjobs Career Resources,বিডিজবস ক্যারিয়ার রিসোর্স,private-or-community,CAT-111,SUB-117,https://www.bdjobs.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-063,Google Docs,গুগল ডকস,private-or-community,CAT-088,SUB-094,https://docs.google.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-064,Google Drive,গুগল ড্রাইভ,private-or-community,CAT-088,SUB-094,https://drive.google.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-065,Zoom Events,জুম ইভেন্টস,private-or-community,CAT-091,SUB-097,https://events.zoom.us/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-066,Spotify,স্পটিফাই,private-or-community,CAT-140,SUB-146,https://www.spotify.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-067,YouTube,ইউটিউব,private-or-community,CAT-140,SUB-146,https://www.youtube.com/,needs-review,False,False,,True,SRC-PRIVATE-002
+EXT-068,Podcast Index,পডকাস্ট ইনডেক্স,private-or-community,CAT-141,SUB-147,https://podcastindex.org/,needs-review,False,False,,True,SRC-PRIVATE-002
+SVC-0202,National Government Information Helpline 333,জাতীয় সরকারি তথ্য ও সেবা হেল্পলাইন ৩৩৩,government-or-public,CAT-001,SUB-001,https://bangladesh.gov.bd/,needs-review,False,False,,True,SRC-001
+SVC-0203,National Legal Aid Services Organization,জাতীয় আইনগত সহায়তা প্রদান সংস্থা,government-or-public,CAT-014,SUB-019,https://nlaso.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0204,Online Police Clearance,অনলাইন পুলিশ ক্লিয়ারেন্স,government-or-public,CAT-014,SUB-019,https://pcc.police.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0205,Women and Children Violence Prevention Helpline 109,নারী ও শিশু নির্যাতন প্রতিরোধ হেল্পলাইন ১০৯,government-or-public,CAT-027,SUB-037,https://mowca.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0206,Child Helpline 1098,শিশু সহায়তা হেল্পলাইন ১০৯৮,government-or-public,CAT-027,SUB-037,https://dss.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0207,Anti-Corruption Commission Helpline 106,দুদক হটলাইন ১০৬,government-or-public,CAT-049,SUB-028,https://acc.org.bd/,needs-review,False,False,,True,SRC-023
+SVC-0208,Smart Land Service 16122,স্মার্ট ভূমি সেবা ১৬১২২,government-or-public,CAT-006,SUB-011,https://land.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0209,Labour Helpline 16357,শ্রমিক হেল্পলাইন ১৬৩৫৭,government-or-public,CAT-025,SUB-036,https://mole.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0210,Universal Pension Scheme,সর্বজনীন পেনশন স্কিম,government-or-public,CAT-038,SUB-048,https://www.upension.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0211,Expatriate Welfare Call Centre 16135,প্রবাসী কল সেন্টার ১৬১৩৫,government-or-public,CAT-011,SUB-017,https://probashi.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0212,e-Government Procurement (e-GP),ই-জিপি সরকারি ক্রয় পোর্টাল,government-or-public,CAT-039,SUB-024,https://www.eprocure.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0213,BTRC Telecommunications Complaint and Information,বিটিআরসি টেলিযোগাযোগ অভিযোগ ও তথ্য,government-or-public,CAT-034,SUB-044,https://btrc.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0214,Electricity Service Helpline 16999,বিদ্যুৎ সেবা হেল্পলাইন ১৬৯৯৯,government-or-public,CAT-016,SUB-020,https://powerdivision.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0215,Inland Water Transport Emergency Helpline 16113,অভ্যন্তরীণ নৌ-পরিবহন জরুরি হেল্পলাইন ১৬১১৩,government-or-public,CAT-053,SUB-059,https://biwta.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0216,Bangladesh Coast Guard Helpline 16111,বাংলাদেশ কোস্ট গার্ড হেল্পলাইন ১৬১১১,government-or-public,CAT-053,SUB-059,https://coastguard.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0217,Disaster Early Warning and Response System,দুর্যোগের আগাম সতর্কতা ও সাড়া ব্যবস্থা,government-or-public,CAT-050,SUB-026,https://rapid.ddm.gov.bd/service/list,needs-review,False,False,,True,SRC-023
+SVC-0218,Fire Service Emergency Hotline 102,ফায়ার সার্ভিস জরুরি হটলাইন ১০২,government-or-public,CAT-012,SUB-018,https://fireservice.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0219,National Board of Revenue e-Services,জাতীয় রাজস্ব বোর্ডের ই-সেবা,government-or-public,CAT-007,SUB-013,https://nbr.gov.bd/all-eservices/ban,needs-review,False,False,,True,SRC-023
+SVC-0220,Bangladesh Judiciary Information and e-Services,বাংলাদেশ বিচার বিভাগের তথ্য ও ই-সেবা,government-or-public,CAT-014,SUB-019,https://chattogram.judiciary.gov.bd/en,needs-review,False,False,,True,SRC-023
+SVC-0221,Directorate of National Consumer Rights Protection,জাতীয় ভোক্তা অধিকার সংরক্ষণ অধিদপ্তর,government-or-public,CAT-028,SUB-038,https://dncrp.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0222,Bangladesh Food Safety Authority,বাংলাদেশ নিরাপদ খাদ্য কর্তৃপক্ষ,government-or-public,CAT-028,SUB-038,https://bfsa.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0223,Department of Agricultural Extension,কৃষি সম্প্রসারণ অধিদপ্তর,government-or-public,CAT-018,SUB-021,https://dae.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0224,Department of Livestock Services,প্রাণিসম্পদ অধিদপ্তর,government-or-public,CAT-019,SUB-032,https://dls.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0225,Department of Fisheries,মৎস্য অধিদপ্তর,government-or-public,CAT-020,SUB-033,https://fisheries.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0226,Bangladesh Election Commission,বাংলাদেশ নির্বাচন কমিশন,government-or-public,CAT-015,SUB-030,https://ecs.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0227,Fire Safety Online Services,ফায়ার সেফটি অনলাইন সেবা,government-or-public,CAT-012,SUB-018,https://fireservice.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0228,Power Division Complaint Management and Citizen Services,বিদ্যুৎ বিভাগের অভিযোগ ব্যবস্থাপনা ও নাগরিক সেবা,government-or-public,CAT-016,SUB-020,https://complain.mpemr.gov.bd/,needs-review,False,False,,True,SRC-023
+SVC-0229,myGov One-Stop Government Services,মাইগভ এক ঠিকানায় সরকারি সেবা,government-or-public,CAT-001,SUB-001,https://www.mygov.bd/services,needs-review,False,False,,True,SRC-023
+SVC-0230,National e-Services Directory,জাতীয় ই-সেবা ডিরেক্টরি,government-or-public,CAT-001,SUB-001,https://bangladesh.gov.bd/views/all-eservices-in-bangladesh/,needs-review,False,False,,True,SRC-001

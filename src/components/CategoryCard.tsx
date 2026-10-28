@@ -1,0 +1,58 @@
+import React from 'react';
+import { Category } from '../types';
+import { useLanguage } from '../context/LanguageContext';
+import { CategoryIcon } from './CategoryIcon';
+import { getCategoryServiceCount } from '../data/directoryData';
+import { ArrowRight } from 'lucide-react';
+
+interface CategoryCardProps {
+  category: Category;
+  onClick: () => void;
+}
+
+export const CategoryCard: React.FC<CategoryCardProps> = ({ category, onClick }) => {
+  const { language, t } = useLanguage();
+  const serviceCount = getCategoryServiceCount(category.id);
+
+  return (
+    <div
+      onClick={onClick}
+      role="button"
+      tabIndex={0}
+      onKeyDown={(e) => {
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          onClick();
+        }
+      }}
+      className="group relative flex flex-col justify-between p-5 bg-white rounded-xl border border-slate-200/90 hover:border-emerald-300 hover:shadow-md transition-all duration-200 cursor-pointer text-left focus:outline-hidden focus:ring-2 focus:ring-emerald-500"
+    >
+      <div>
+        <div className="flex items-start justify-between gap-3 mb-3.5">
+          <div className="p-3 rounded-lg bg-emerald-50 text-emerald-800 border border-emerald-100 group-hover:bg-emerald-600 group-hover:text-white transition-colors shrink-0">
+            <CategoryIcon slug={category.slug} size={24} />
+          </div>
+
+          <div className="flex items-center gap-1.5">
+            <span className="px-2.5 py-0.5 text-xs font-semibold rounded-full bg-slate-100 text-slate-700">
+              {serviceCount} {language === 'bn' ? 'সেবা' : 'services'}
+            </span>
+          </div>
+        </div>
+
+        <h3 className="text-base sm:text-lg font-bold text-slate-900 group-hover:text-emerald-800 transition-colors mb-1.5 leading-snug">
+          {category.name[language] || category.name.en}
+        </h3>
+
+        <p className="text-xs sm:text-sm text-slate-600 line-clamp-2 leading-relaxed">
+          {category.description[language] || category.description.en}
+        </p>
+      </div>
+
+      <div className="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs font-semibold text-emerald-700 group-hover:text-emerald-800">
+        <span>{t.serviceCard.viewDetails}</span>
+        <ArrowRight size={14} className="transform group-hover:translate-x-1 transition-transform" />
+      </div>
+    </div>
+  );
+};

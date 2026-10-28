@@ -1,0 +1,1472 @@
+[
+  {
+    "id": "SUB-001",
+    "slug": "government-portals",
+    "categoryId": "CAT-001",
+    "name": {
+      "en": "Government portals",
+      "bn": "সরকারি পোর্টাল"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-002",
+    "slug": "ministries-divisions",
+    "categoryId": "CAT-001",
+    "name": {
+      "en": "Ministries and divisions",
+      "bn": "মন্ত্রণালয় ও বিভাগ"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-003",
+    "slug": "national-id",
+    "categoryId": "CAT-002",
+    "name": {
+      "en": "National identity",
+      "bn": "জাতীয় পরিচয়পত্র"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-004",
+    "slug": "birth-death-registration",
+    "categoryId": "CAT-002",
+    "name": {
+      "en": "Birth and death registration",
+      "bn": "জন্ম ও মৃত্যু নিবন্ধন"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-005",
+    "slug": "public-service-commission",
+    "categoryId": "CAT-003",
+    "name": {
+      "en": "Public service commission",
+      "bn": "সরকারি কর্ম কমিশন"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-006",
+    "slug": "job-applications",
+    "categoryId": "CAT-003",
+    "name": {
+      "en": "Online job applications",
+      "bn": "অনলাইন চাকরির আবেদন"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-007",
+    "slug": "exam-results",
+    "categoryId": "CAT-004",
+    "name": {
+      "en": "Public examination results",
+      "bn": "পাবলিক পরীক্ষার ফলাফল"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-008",
+    "slug": "universities",
+    "categoryId": "CAT-004",
+    "name": {
+      "en": "Universities and higher education",
+      "bn": "বিশ্ববিদ্যালয় ও উচ্চশিক্ষা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-009",
+    "slug": "health-directories",
+    "categoryId": "CAT-005",
+    "name": {
+      "en": "Health authorities and directories",
+      "bn": "স্বাস্থ্য কর্তৃপক্ষ ও ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-010",
+    "slug": "health-helplines",
+    "categoryId": "CAT-005",
+    "name": {
+      "en": "Health helplines",
+      "bn": "স্বাস্থ্য হেল্পলাইন"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-011",
+    "slug": "mutation",
+    "categoryId": "CAT-006",
+    "name": {
+      "en": "Mutation and land records",
+      "bn": "নামজারি ও ভূমি রেকর্ড"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-012",
+    "slug": "land-tax",
+    "categoryId": "CAT-006",
+    "name": {
+      "en": "Land development tax",
+      "bn": "ভূমি উন্নয়ন কর"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-013",
+    "slug": "income-tax",
+    "categoryId": "CAT-007",
+    "name": {
+      "en": "Income tax and e-return",
+      "bn": "আয়কর ও ই-রিটার্ন"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-014",
+    "slug": "central-bank",
+    "categoryId": "CAT-008",
+    "name": {
+      "en": "Central bank and financial regulation",
+      "bn": "কেন্দ্রীয় ব্যাংক ও আর্থিক নিয়ন্ত্রণ"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-015",
+    "slug": "company-registration",
+    "categoryId": "CAT-009",
+    "name": {
+      "en": "Company registration",
+      "bn": "কোম্পানি নিবন্ধন"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-016",
+    "slug": "driving-licence",
+    "categoryId": "CAT-010",
+    "name": {
+      "en": "Driving licence and vehicle services",
+      "bn": "ড্রাইভিং লাইসেন্স ও যানবাহন"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-017",
+    "slug": "migration-services",
+    "categoryId": "CAT-011",
+    "name": {
+      "en": "Overseas employment services",
+      "bn": "বিদেশে কর্মসংস্থান"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-018",
+    "slug": "emergency-hotlines",
+    "categoryId": "CAT-012",
+    "name": {
+      "en": "Emergency contacts",
+      "bn": "জরুরি যোগাযোগ"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-019",
+    "slug": "legal-aid",
+    "categoryId": "CAT-014",
+    "name": {
+      "en": "Legal aid and laws",
+      "bn": "আইনি সহায়তা ও আইন"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-020",
+    "slug": "electricity-providers",
+    "categoryId": "CAT-016",
+    "name": {
+      "en": "Electricity providers",
+      "bn": "বিদ্যুৎ বিতরণকারী"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-021",
+    "slug": "agri-information",
+    "categoryId": "CAT-018",
+    "name": {
+      "en": "Agriculture information",
+      "bn": "কৃষি তথ্য"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-022",
+    "slug": "weather-forecast",
+    "categoryId": "CAT-021",
+    "name": {
+      "en": "Weather and forecasts",
+      "bn": "আবহাওয়া ও পূর্বাভাস"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-023",
+    "slug": "digital-services",
+    "categoryId": "CAT-023",
+    "name": {
+      "en": "Digital government services",
+      "bn": "ডিজিটাল সরকারি সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-024",
+    "slug": "e-government-procurement",
+    "categoryId": "CAT-039",
+    "name": {
+      "en": "e-Government Procurement",
+      "bn": "ই-জিপি সরকারি ক্রয়"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-025",
+    "slug": "railway-tickets",
+    "categoryId": "CAT-042",
+    "name": {
+      "en": "Railway ticketing",
+      "bn": "রেলওয়ে টিকিট"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-026",
+    "slug": "disaster-information",
+    "categoryId": "CAT-050",
+    "name": {
+      "en": "Disaster information",
+      "bn": "দুর্যোগ তথ্য"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-027",
+    "slug": "social-support",
+    "categoryId": "CAT-026",
+    "name": {
+      "en": "Social support and allowances",
+      "bn": "সামাজিক সহায়তা ও ভাতা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-028",
+    "slug": "complaints-grievances",
+    "categoryId": "CAT-049",
+    "name": {
+      "en": "Complaints and grievance redress",
+      "bn": "অভিযোগ ও প্রতিকার"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-029",
+    "slug": "public-administration-services",
+    "categoryId": "CAT-013",
+    "name": {
+      "en": "Public Administration Services",
+      "bn": "জনপ্রশাসন সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-030",
+    "slug": "elections-voting-services",
+    "categoryId": "CAT-015",
+    "name": {
+      "en": "Elections & Voter Services Services",
+      "bn": "নির্বাচন ও ভোটার সেবা সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-031",
+    "slug": "gas-water-utilities-services",
+    "categoryId": "CAT-017",
+    "name": {
+      "en": "Gas, Water & Utilities Services",
+      "bn": "গ্যাস, পানি ও ইউটিলিটি সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-032",
+    "slug": "livestock-veterinary-services",
+    "categoryId": "CAT-019",
+    "name": {
+      "en": "Livestock & Veterinary Services Services",
+      "bn": "প্রাণিসম্পদ ও পশুচিকিৎসা সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-033",
+    "slug": "fisheries-marine-services",
+    "categoryId": "CAT-020",
+    "name": {
+      "en": "Fisheries & Marine Resources Services",
+      "bn": "মৎস্য ও সামুদ্রিক সম্পদ সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-034",
+    "slug": "local-government-services",
+    "categoryId": "CAT-022",
+    "name": {
+      "en": "Local Government & Municipal Services Services",
+      "bn": "স্থানীয় সরকার ও পৌরসেবা সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-035",
+    "slug": "cybersecurity-services",
+    "categoryId": "CAT-024",
+    "name": {
+      "en": "Cybersecurity & Digital Safety Services",
+      "bn": "সাইবার নিরাপত্তা ও ডিজিটাল সুরক্ষা সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-036",
+    "slug": "labour-skills-services",
+    "categoryId": "CAT-025",
+    "name": {
+      "en": "Labour, Training & Skills Services",
+      "bn": "শ্রম, প্রশিক্ষণ ও দক্ষতা সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-037",
+    "slug": "women-children-services",
+    "categoryId": "CAT-027",
+    "name": {
+      "en": "Women, Children & Family Services",
+      "bn": "নারী, শিশু ও পরিবার সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-038",
+    "slug": "food-consumer-services",
+    "categoryId": "CAT-028",
+    "name": {
+      "en": "Food, Food Safety & Consumer Rights Services",
+      "bn": "খাদ্য, খাদ্যনিরাপত্তা ও ভোক্তা অধিকার সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-039",
+    "slug": "statistics-data-services",
+    "categoryId": "CAT-029",
+    "name": {
+      "en": "Statistics, Census & Open Data Services",
+      "bn": "পরিসংখ্যান, জনশুমারি ও উন্মুক্ত তথ্য সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-040",
+    "slug": "foreign-affairs-services",
+    "categoryId": "CAT-030",
+    "name": {
+      "en": "Foreign Affairs & Diplomacy Services",
+      "bn": "পররাষ্ট্র ও কূটনীতি সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-041",
+    "slug": "tourism-culture-services",
+    "categoryId": "CAT-031",
+    "name": {
+      "en": "Tourism, Culture & Heritage Services",
+      "bn": "পর্যটন, সংস্কৃতি ও ঐতিহ্য সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-042",
+    "slug": "religious-affairs-services",
+    "categoryId": "CAT-032",
+    "name": {
+      "en": "Religious Affairs & Pilgrimage Services",
+      "bn": "ধর্মীয় বিষয় ও হজ সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-043",
+    "slug": "defence-liberation-services",
+    "categoryId": "CAT-033",
+    "name": {
+      "en": "Defence & Liberation War Services",
+      "bn": "প্রতিরক্ষা ও মুক্তিযুদ্ধ সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-044",
+    "slug": "postal-telecom-services",
+    "categoryId": "CAT-034",
+    "name": {
+      "en": "Postal Services & Telecommunications Services",
+      "bn": "ডাক ও টেলিযোগাযোগ সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-045",
+    "slug": "science-research-services",
+    "categoryId": "CAT-035",
+    "name": {
+      "en": "Science, Research & Innovation Services",
+      "bn": "বিজ্ঞান, গবেষণা ও উদ্ভাবন সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-046",
+    "slug": "libraries-archives-services",
+    "categoryId": "CAT-036",
+    "name": {
+      "en": "Libraries, Archives & Records Services",
+      "bn": "গ্রন্থাগার, আর্কাইভ ও নথি সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-047",
+    "slug": "government-media-services",
+    "categoryId": "CAT-037",
+    "name": {
+      "en": "Government Media & Publications Services",
+      "bn": "সরকারি গণমাধ্যম ও প্রকাশনা সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-048",
+    "slug": "insurance-pensions-services",
+    "categoryId": "CAT-038",
+    "name": {
+      "en": "Insurance, Pensions & Retirement Services",
+      "bn": "বীমা, পেনশন ও অবসর সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-049",
+    "slug": "human-rights-services",
+    "categoryId": "CAT-040",
+    "name": {
+      "en": "Human Rights & Legal Protection Services",
+      "bn": "মানবাধিকার ও আইনি সুরক্ষা সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-050",
+    "slug": "water-flood-control-services",
+    "categoryId": "CAT-041",
+    "name": {
+      "en": "Water Resources & Flood Control Services",
+      "bn": "পানি সম্পদ ও বন্যা নিয়ন্ত্রণ সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-051",
+    "slug": "housing-construction-services",
+    "categoryId": "CAT-043",
+    "name": {
+      "en": "Housing, Construction & Urban Development Services",
+      "bn": "আবাসন, নির্মাণ ও নগর উন্নয়ন সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-052",
+    "slug": "minerals-natural-resources-services",
+    "categoryId": "CAT-044",
+    "name": {
+      "en": "Minerals & Natural Resources Services",
+      "bn": "খনিজ ও প্রাকৃতিক সম্পদ সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-053",
+    "slug": "cooperatives-rural-services",
+    "categoryId": "CAT-045",
+    "name": {
+      "en": "Cooperatives & Rural Development Services",
+      "bn": "সমবায় ও গ্রামীণ উন্নয়ন সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-054",
+    "slug": "sports-youth-services",
+    "categoryId": "CAT-046",
+    "name": {
+      "en": "Sports & Youth Development Services",
+      "bn": "ক্রীড়া ও যুব উন্নয়ন সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-055",
+    "slug": "intellectual-property-services",
+    "categoryId": "CAT-047",
+    "name": {
+      "en": "Intellectual Property & Standards Services",
+      "bn": "মেধাস্বত্ব ও মান নিয়ন্ত্রণ সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-056",
+    "slug": "trade-commerce-services",
+    "categoryId": "CAT-048",
+    "name": {
+      "en": "Trade, Export & Import Services",
+      "bn": "বাণিজ্য, রপ্তানি ও আমদানি সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-057",
+    "slug": "immigration-visas-services",
+    "categoryId": "CAT-051",
+    "name": {
+      "en": "Immigration, Visas & Consular Services Services",
+      "bn": "ইমিগ্রেশন, ভিসা ও কনস্যুলার সেবা সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-058",
+    "slug": "aviation-airports-services",
+    "categoryId": "CAT-052",
+    "name": {
+      "en": "Aviation & Airports Services",
+      "bn": "বিমান চলাচল ও বিমানবন্দর সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-059",
+    "slug": "maritime-coastguard-services",
+    "categoryId": "CAT-053",
+    "name": {
+      "en": "Maritime Safety & Coast Guard Services",
+      "bn": "সামুদ্রিক নিরাপত্তা ও কোস্ট গার্ড সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-060",
+    "slug": "urban-services-services",
+    "categoryId": "CAT-054",
+    "name": {
+      "en": "Urban Services & City Corporations Services",
+      "bn": "নগরসেবা ও সিটি কর্পোরেশন সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-061",
+    "slug": "permits-certificates-services",
+    "categoryId": "CAT-055",
+    "name": {
+      "en": "Permits, Certificates & Forms Services",
+      "bn": "অনুমতি, সনদ ও ফরম সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-062",
+    "slug": "public-procurement-data-services",
+    "categoryId": "CAT-056",
+    "name": {
+      "en": "Public Finance & Budget Transparency Services",
+      "bn": "সরকারি অর্থায়ন ও বাজেট স্বচ্ছতা সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-063",
+    "slug": "research-grants-services",
+    "categoryId": "CAT-057",
+    "name": {
+      "en": "Research Grants & Scholarships Services",
+      "bn": "গবেষণা অনুদান ও বৃত্তি সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-064",
+    "slug": "consumer-prices-markets-services",
+    "categoryId": "CAT-058",
+    "name": {
+      "en": "Market Prices & Commodity Information Services",
+      "bn": "বাজারদর ও পণ্যের তথ্য সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-065",
+    "slug": "public-transport-services",
+    "categoryId": "CAT-059",
+    "name": {
+      "en": "Public Transport & Ticketing Services",
+      "bn": "গণপরিবহন ও টিকিট সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-066",
+    "slug": "other-essential-services",
+    "categoryId": "CAT-060",
+    "name": {
+      "en": "Other Essential Public Services Services",
+      "bn": "অন্যান্য গুরুত্বপূর্ণ জনসেবা সেবা"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-067",
+    "slug": "online-shopping-directory",
+    "categoryId": "CAT-061",
+    "name": {
+      "en": "Online Shopping & Marketplaces Directory",
+      "bn": "অনলাইন শপিং ও মার্কেটপ্লেস ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-068",
+    "slug": "groceries-household-directory",
+    "categoryId": "CAT-062",
+    "name": {
+      "en": "Groceries & Household Delivery Directory",
+      "bn": "মুদি ও গৃহস্থালি পণ্য ডেলিভারি ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-069",
+    "slug": "food-delivery-directory",
+    "categoryId": "CAT-063",
+    "name": {
+      "en": "Food Ordering & Delivery Directory",
+      "bn": "খাবার অর্ডার ও ডেলিভারি ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-070",
+    "slug": "ride-hailing-directory",
+    "categoryId": "CAT-064",
+    "name": {
+      "en": "Ride-Hailing & Local Mobility Directory",
+      "bn": "রাইড শেয়ারিং ও স্থানীয় যাতায়াত ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-071",
+    "slug": "bus-launch-tickets-directory",
+    "categoryId": "CAT-065",
+    "name": {
+      "en": "Bus, Launch & Intercity Tickets Directory",
+      "bn": "বাস, লঞ্চ ও আন্তঃনগর টিকিট ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-072",
+    "slug": "flights-hotels-directory",
+    "categoryId": "CAT-066",
+    "name": {
+      "en": "Flights, Hotels & Travel Booking Directory",
+      "bn": "বিমান, হোটেল ও ভ্রমণ বুকিং ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-073",
+    "slug": "courier-parcel-directory",
+    "categoryId": "CAT-067",
+    "name": {
+      "en": "Courier, Parcel & Logistics Directory",
+      "bn": "কুরিয়ার, পার্সেল ও লজিস্টিকস ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-074",
+    "slug": "private-jobs-careers-directory",
+    "categoryId": "CAT-068",
+    "name": {
+      "en": "Private Jobs & Career Platforms Directory",
+      "bn": "বেসরকারি চাকরি ও ক্যারিয়ার ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-075",
+    "slug": "freelancing-remote-work-directory",
+    "categoryId": "CAT-069",
+    "name": {
+      "en": "Freelancing & Remote Work Directory",
+      "bn": "ফ্রিল্যান্সিং ও রিমোট কাজ ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-076",
+    "slug": "online-learning-directory",
+    "categoryId": "CAT-070",
+    "name": {
+      "en": "Online Learning & Skills Directory",
+      "bn": "অনলাইন শিক্ষা ও দক্ষতা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-077",
+    "slug": "books-stationery-directory",
+    "categoryId": "CAT-071",
+    "name": {
+      "en": "Books, Stationery & Learning Materials Directory",
+      "bn": "বই, স্টেশনারি ও শিক্ষা উপকরণ ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-078",
+    "slug": "electronics-tech-shopping-directory",
+    "categoryId": "CAT-072",
+    "name": {
+      "en": "Electronics & Technology Shopping Directory",
+      "bn": "ইলেকট্রনিক্স ও প্রযুক্তি পণ্য ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-079",
+    "slug": "classifieds-resale-directory",
+    "categoryId": "CAT-073",
+    "name": {
+      "en": "Classifieds, Buy/Sell & Resale Directory",
+      "bn": "ক্লাসিফায়েড, কেনাবেচা ও রিসেল ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-080",
+    "slug": "home-services-repairs-directory",
+    "categoryId": "CAT-074",
+    "name": {
+      "en": "Home Services & Repairs Directory",
+      "bn": "হোম সার্ভিস ও মেরামত ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-081",
+    "slug": "private-healthcare-directory",
+    "categoryId": "CAT-075",
+    "name": {
+      "en": "Private Healthcare & Appointments Directory",
+      "bn": "বেসরকারি স্বাস্থ্যসেবা ও অ্যাপয়েন্টমেন্ট ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-082",
+    "slug": "telemedicine-pharmacy-directory",
+    "categoryId": "CAT-076",
+    "name": {
+      "en": "Telemedicine & Online Pharmacy Directory",
+      "bn": "টেলিমেডিসিন ও অনলাইন ফার্মেসি ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-083",
+    "slug": "news-media-directory",
+    "categoryId": "CAT-077",
+    "name": {
+      "en": "News, Newspapers & Media Directory",
+      "bn": "সংবাদ, সংবাদপত্র ও গণমাধ্যম ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-084",
+    "slug": "sports-entertainment-directory",
+    "categoryId": "CAT-078",
+    "name": {
+      "en": "Sports & Entertainment Directory",
+      "bn": "খেলাধুলা ও বিনোদন ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-085",
+    "slug": "maps-navigation-directory",
+    "categoryId": "CAT-079",
+    "name": {
+      "en": "Maps, Navigation & Local Discovery Directory",
+      "bn": "ম্যাপ, নেভিগেশন ও স্থানীয় খোঁজ ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-086",
+    "slug": "internet-mobile-operators-directory",
+    "categoryId": "CAT-080",
+    "name": {
+      "en": "Internet & Mobile Operators Directory",
+      "bn": "ইন্টারনেট ও মোবাইল অপারেটর ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-087",
+    "slug": "private-banking-fintech-directory",
+    "categoryId": "CAT-081",
+    "name": {
+      "en": "Private Banking, MFS & Fintech Directory",
+      "bn": "বেসরকারি ব্যাংকিং, এমএফএস ও ফিনটেক ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-088",
+    "slug": "insurance-financial-planning-directory",
+    "categoryId": "CAT-082",
+    "name": {
+      "en": "Insurance & Financial Planning Directory",
+      "bn": "বীমা ও আর্থিক পরিকল্পনা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-089",
+    "slug": "utility-payment-directory",
+    "categoryId": "CAT-083",
+    "name": {
+      "en": "Utility Bill Payment & Recharge Directory",
+      "bn": "ইউটিলিটি বিল পেমেন্ট ও রিচার্জ ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-090",
+    "slug": "ngo-charity-directory",
+    "categoryId": "CAT-084",
+    "name": {
+      "en": "NGOs, Charity & Volunteering Directory",
+      "bn": "এনজিও, দাতব্য ও স্বেচ্ছাসেবা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-091",
+    "slug": "real-estate-rentals-directory",
+    "categoryId": "CAT-085",
+    "name": {
+      "en": "Real Estate, Rentals & Property Directory",
+      "bn": "রিয়েল এস্টেট, ভাড়া ও সম্পত্তি ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-092",
+    "slug": "legal-professional-services-directory",
+    "categoryId": "CAT-086",
+    "name": {
+      "en": "Legal & Professional Services Directory",
+      "bn": "আইনি ও পেশাগত সেবা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-093",
+    "slug": "matrimony-family-directory",
+    "categoryId": "CAT-087",
+    "name": {
+      "en": "Matrimony & Family Connections Directory",
+      "bn": "বিবাহ ও পারিবারিক যোগাযোগ ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-094",
+    "slug": "digital-tools-directory",
+    "categoryId": "CAT-088",
+    "name": {
+      "en": "Digital Tools & Productivity Directory",
+      "bn": "ডিজিটাল টুলস ও প্রোডাক্টিভিটি ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-095",
+    "slug": "cloud-hosting-domains-directory",
+    "categoryId": "CAT-089",
+    "name": {
+      "en": "Domains, Hosting & Cloud Services Directory",
+      "bn": "ডোমেইন, হোস্টিং ও ক্লাউড সেবা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-096",
+    "slug": "design-marketing-directory",
+    "categoryId": "CAT-090",
+    "name": {
+      "en": "Design, Printing & Digital Marketing Directory",
+      "bn": "ডিজাইন, প্রিন্টিং ও ডিজিটাল মার্কেটিং ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-097",
+    "slug": "events-tickets-directory",
+    "categoryId": "CAT-091",
+    "name": {
+      "en": "Events, Cinema & Event Tickets Directory",
+      "bn": "ইভেন্ট, সিনেমা ও টিকিট ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-098",
+    "slug": "personal-finance-budgeting-directory",
+    "categoryId": "CAT-092",
+    "name": {
+      "en": "Personal Finance & Budgeting Directory",
+      "bn": "ব্যক্তিগত অর্থব্যবস্থা ও বাজেট ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-099",
+    "slug": "accounting-invoicing-pos-directory",
+    "categoryId": "CAT-093",
+    "name": {
+      "en": "Accounting, Invoicing & POS Directory",
+      "bn": "হিসাবরক্ষণ, ইনভয়েস ও পিওএস ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-100",
+    "slug": "sme-business-tools-directory",
+    "categoryId": "CAT-094",
+    "name": {
+      "en": "SME & Small Business Tools Directory",
+      "bn": "ক্ষুদ্র ব্যবসা ও এসএমই টুলস ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-101",
+    "slug": "wholesale-b2b-directory",
+    "categoryId": "CAT-095",
+    "name": {
+      "en": "Wholesale & B2B Marketplaces Directory",
+      "bn": "পাইকারি ও B2B মার্কেটপ্লেস ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-102",
+    "slug": "agri-marketplace-inputs-directory",
+    "categoryId": "CAT-096",
+    "name": {
+      "en": "Agricultural Marketplace & Inputs Directory",
+      "bn": "কৃষি মার্কেটপ্লেস ও উপকরণ ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-103",
+    "slug": "livestock-pet-services-directory",
+    "categoryId": "CAT-097",
+    "name": {
+      "en": "Pet Care & Animal Services Directory",
+      "bn": "পোষা প্রাণী ও প্রাণীসেবা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-104",
+    "slug": "parenting-childcare-directory",
+    "categoryId": "CAT-098",
+    "name": {
+      "en": "Parenting, Childcare & Family Support Directory",
+      "bn": "প্যারেন্টিং, শিশুযত্ন ও পরিবার সহায়তা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-105",
+    "slug": "mental-wellbeing-support-directory",
+    "categoryId": "CAT-099",
+    "name": {
+      "en": "Wellbeing & Counselling Resources Directory",
+      "bn": "মানসিক সুস্থতা ও কাউন্সেলিং রিসোর্স ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-106",
+    "slug": "fitness-sports-centres-directory",
+    "categoryId": "CAT-100",
+    "name": {
+      "en": "Fitness, Gyms & Sports Centres Directory",
+      "bn": "ফিটনেস, জিম ও ক্রীড়া কেন্দ্র ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-107",
+    "slug": "beauty-personal-care-directory",
+    "categoryId": "CAT-101",
+    "name": {
+      "en": "Beauty, Salon & Personal Care Directory",
+      "bn": "বিউটি, সেলুন ও ব্যক্তিগত পরিচর্যা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-108",
+    "slug": "fashion-apparel-directory",
+    "categoryId": "CAT-102",
+    "name": {
+      "en": "Fashion, Apparel & Footwear Directory",
+      "bn": "ফ্যাশন, পোশাক ও জুতা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-109",
+    "slug": "home-furniture-appliances-directory",
+    "categoryId": "CAT-103",
+    "name": {
+      "en": "Home, Furniture & Appliances Directory",
+      "bn": "ঘর, আসবাব ও গৃহস্থালি যন্ত্রপাতি ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-110",
+    "slug": "repair-electronics-directory",
+    "categoryId": "CAT-104",
+    "name": {
+      "en": "Electronics Repair & Device Support Directory",
+      "bn": "ইলেকট্রনিক্স মেরামত ও ডিভাইস সহায়তা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-111",
+    "slug": "car-bike-services-directory",
+    "categoryId": "CAT-105",
+    "name": {
+      "en": "Car, Bike & Vehicle Services Directory",
+      "bn": "গাড়ি, মোটরসাইকেল ও যানবাহন সেবা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-112",
+    "slug": "fuel-cng-ev-charging-directory",
+    "categoryId": "CAT-106",
+    "name": {
+      "en": "Fuel, CNG & EV Charging Directory",
+      "bn": "জ্বালানি, সিএনজি ও ইভি চার্জিং ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-113",
+    "slug": "parking-roadside-assistance-directory",
+    "categoryId": "CAT-107",
+    "name": {
+      "en": "Parking & Roadside Assistance Directory",
+      "bn": "পার্কিং ও রাস্তায় জরুরি সহায়তা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-114",
+    "slug": "language-translation-directory",
+    "categoryId": "CAT-108",
+    "name": {
+      "en": "Language Learning & Translation Directory",
+      "bn": "ভাষা শিক্ষা ও অনুবাদ ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-115",
+    "slug": "tutoring-coaching-directory",
+    "categoryId": "CAT-109",
+    "name": {
+      "en": "Tutoring & Coaching Centres Directory",
+      "bn": "প্রাইভেট টিউশন ও কোচিং ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-116",
+    "slug": "scholarships-study-abroad-directory",
+    "categoryId": "CAT-110",
+    "name": {
+      "en": "Scholarships & Study Abroad Directory",
+      "bn": "বৃত্তি ও বিদেশে পড়াশোনা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-117",
+    "slug": "career-cv-interview-directory",
+    "categoryId": "CAT-111",
+    "name": {
+      "en": "CV, Interview & Career Development Directory",
+      "bn": "সিভি, ইন্টারভিউ ও ক্যারিয়ার উন্নয়ন ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-118",
+    "slug": "remote-meetings-collaboration-directory",
+    "categoryId": "CAT-112",
+    "name": {
+      "en": "Remote Work & Collaboration Tools Directory",
+      "bn": "রিমোট কাজ ও সহযোগিতার টুল ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-119",
+    "slug": "cyber-safety-identity-directory",
+    "categoryId": "CAT-113",
+    "name": {
+      "en": "Online Safety & Identity Protection Directory",
+      "bn": "অনলাইন নিরাপত্তা ও পরিচয় সুরক্ষা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-120",
+    "slug": "password-security-utilities-directory",
+    "categoryId": "CAT-114",
+    "name": {
+      "en": "Password & Security Utilities Directory",
+      "bn": "পাসওয়ার্ড ও নিরাপত্তা টুল ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-121",
+    "slug": "file-conversion-pdf-directory",
+    "categoryId": "CAT-115",
+    "name": {
+      "en": "PDF, File Conversion & Documents Directory",
+      "bn": "পিডিএফ, ফাইল কনভার্সন ও ডকুমেন্ট ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-122",
+    "slug": "photo-video-creative-directory",
+    "categoryId": "CAT-116",
+    "name": {
+      "en": "Photo, Video & Creative Tools Directory",
+      "bn": "ছবি, ভিডিও ও সৃজনশীল টুল ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-123",
+    "slug": "social-media-creator-directory",
+    "categoryId": "CAT-117",
+    "name": {
+      "en": "Social Media & Creator Tools Directory",
+      "bn": "সোশ্যাল মিডিয়া ও ক্রিয়েটর টুল ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-124",
+    "slug": "websites-app-development-directory",
+    "categoryId": "CAT-118",
+    "name": {
+      "en": "Website & App Development Directory",
+      "bn": "ওয়েবসাইট ও অ্যাপ ডেভেলপমেন্ট ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-125",
+    "slug": "business-registration-support-directory",
+    "categoryId": "CAT-119",
+    "name": {
+      "en": "Business Setup & Compliance Support Directory",
+      "bn": "ব্যবসা শুরু ও কমপ্লায়েন্স সহায়তা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-126",
+    "slug": "printing-photocopy-directory",
+    "categoryId": "CAT-120",
+    "name": {
+      "en": "Printing, Photocopy & Document Services Directory",
+      "bn": "প্রিন্টিং, ফটোকপি ও ডকুমেন্ট সেবা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-127",
+    "slug": "event-planning-photography-directory",
+    "categoryId": "CAT-121",
+    "name": {
+      "en": "Event Planning & Photography Directory",
+      "bn": "ইভেন্ট আয়োজন ও ফটোগ্রাফি ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-128",
+    "slug": "wedding-services-directory",
+    "categoryId": "CAT-122",
+    "name": {
+      "en": "Wedding & Ceremony Services Directory",
+      "bn": "বিয়ে ও অনুষ্ঠান সেবা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-129",
+    "slug": "community-groups-directory",
+    "categoryId": "CAT-123",
+    "name": {
+      "en": "Community Groups & Local Networks Directory",
+      "bn": "কমিউনিটি গ্রুপ ও স্থানীয় নেটওয়ার্ক ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-130",
+    "slug": "donations-fundraising-directory",
+    "categoryId": "CAT-124",
+    "name": {
+      "en": "Donations & Fundraising Directory",
+      "bn": "অনুদান ও তহবিল সংগ্রহ ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-131",
+    "slug": "recycling-waste-services-directory",
+    "categoryId": "CAT-125",
+    "name": {
+      "en": "Recycling & Waste Services Directory",
+      "bn": "রিসাইক্লিং ও বর্জ্য সেবা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-132",
+    "slug": "environmental-products-directory",
+    "categoryId": "CAT-126",
+    "name": {
+      "en": "Environment & Sustainable Products Directory",
+      "bn": "পরিবেশবান্ধব ও টেকসই পণ্য ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-133",
+    "slug": "accessibility-assistive-tech-directory",
+    "categoryId": "CAT-127",
+    "name": {
+      "en": "Accessibility & Assistive Technology Directory",
+      "bn": "প্রতিবন্ধীবান্ধব সেবা ও সহায়ক প্রযুক্তি ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-134",
+    "slug": "senior-care-directory",
+    "categoryId": "CAT-128",
+    "name": {
+      "en": "Senior Care & Elder Support Directory",
+      "bn": "প্রবীণ সেবা ও সহায়তা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-135",
+    "slug": "student-life-directory",
+    "categoryId": "CAT-129",
+    "name": {
+      "en": "Student Services & Campus Life Directory",
+      "bn": "শিক্ষার্থী সেবা ও ক্যাম্পাস জীবন ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-136",
+    "slug": "accommodation-hostels-directory",
+    "categoryId": "CAT-130",
+    "name": {
+      "en": "Hostels, Student Housing & Stays Directory",
+      "bn": "হোস্টেল, শিক্ষার্থী আবাসন ও থাকার ব্যবস্থা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-137",
+    "slug": "public-reviews-complaints-directory",
+    "categoryId": "CAT-131",
+    "name": {
+      "en": "Reviews, Ratings & Consumer Feedback Directory",
+      "bn": "রিভিউ, রেটিং ও ভোক্তা মতামত ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-138",
+    "slug": "local-business-directories-directory",
+    "categoryId": "CAT-132",
+    "name": {
+      "en": "Local Business Directories Directory",
+      "bn": "স্থানীয় ব্যবসার ডিরেক্টরি ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-139",
+    "slug": "digital-signatures-documents-directory",
+    "categoryId": "CAT-133",
+    "name": {
+      "en": "Digital Signatures & Document Tools Directory",
+      "bn": "ডিজিটাল স্বাক্ষর ও ডকুমেন্ট টুল ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-140",
+    "slug": "ecommerce-seller-tools-directory",
+    "categoryId": "CAT-134",
+    "name": {
+      "en": "E-commerce Seller Tools Directory",
+      "bn": "ই-কমার্স বিক্রেতার টুল ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-141",
+    "slug": "payments-remittance-directory",
+    "categoryId": "CAT-135",
+    "name": {
+      "en": "Remittance & International Transfers Directory",
+      "bn": "রেমিট্যান্স ও আন্তর্জাতিক অর্থ স্থানান্তর ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-142",
+    "slug": "currency-exchange-directory",
+    "categoryId": "CAT-136",
+    "name": {
+      "en": "Currency & Exchange Rate Tools Directory",
+      "bn": "মুদ্রা ও বিনিময় হার টুল ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-143",
+    "slug": "flight-status-airport-directory",
+    "categoryId": "CAT-137",
+    "name": {
+      "en": "Flight Status & Airport Services Directory",
+      "bn": "ফ্লাইট স্ট্যাটাস ও বিমানবন্দর সেবা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-144",
+    "slug": "travel-guides-local-directory",
+    "categoryId": "CAT-138",
+    "name": {
+      "en": "Travel Guides & Local Experiences Directory",
+      "bn": "ভ্রমণ গাইড ও স্থানীয় অভিজ্ঞতা ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-145",
+    "slug": "restaurants-cafes-directory",
+    "categoryId": "CAT-139",
+    "name": {
+      "en": "Restaurants, Cafes & Reservations Directory",
+      "bn": "রেস্টুরেন্ট, ক্যাফে ও বুকিং ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-146",
+    "slug": "movies-music-streaming-directory",
+    "categoryId": "CAT-140",
+    "name": {
+      "en": "Movies, Music & Streaming Directory",
+      "bn": "সিনেমা, সংগীত ও স্ট্রিমিং ডিরেক্টরি"
+    },
+    "status": "active"
+  },
+  {
+    "id": "SUB-147",
+    "slug": "podcasts-audiobooks-directory",
+    "categoryId": "CAT-141",
+    "name": {
+      "en": "Podcasts & Audiobooks Directory",
+      "bn": "পডকাস্ট ও অডিওবুক ডিরেক্টরি"
+    },
+    "status": "active"
+  }
+]

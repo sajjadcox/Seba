@@ -1,0 +1,3172 @@
+[
+  {
+    "id": "CAT-001",
+    "slug": "central-government",
+    "name": {
+      "en": "Central Government Portals",
+      "bn": "কেন্দ্রীয় সরকারি পোর্টাল"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for central government portals.",
+      "bn": "কেন্দ্রীয় সরকারি পোর্টাল সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-001",
+      "SUB-002"
+    ],
+    "serviceIds": [
+      "SVC-0001",
+      "SVC-0002",
+      "SVC-0003",
+      "SVC-0004",
+      "SVC-0024",
+      "SVC-0202",
+      "SVC-0229",
+      "SVC-0230"
+    ],
+    "status": "active",
+    "sortOrder": 1,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-002",
+    "slug": "citizen-identity",
+    "name": {
+      "en": "Citizen Identity & Registration",
+      "bn": "নাগরিক পরিচয় ও নিবন্ধন"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for citizen identity & registration.",
+      "bn": "নাগরিক পরিচয় ও নিবন্ধন সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-003",
+      "SUB-004"
+    ],
+    "serviceIds": [
+      "SVC-0005",
+      "SVC-0037",
+      "SVC-0038"
+    ],
+    "status": "active",
+    "sortOrder": 2,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-003",
+    "slug": "government-jobs",
+    "name": {
+      "en": "Government Jobs & Recruitment",
+      "bn": "সরকারি চাকরি ও নিয়োগ"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for government jobs & recruitment.",
+      "bn": "সরকারি চাকরি ও নিয়োগ সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-005",
+      "SUB-006"
+    ],
+    "serviceIds": [
+      "SVC-0031"
+    ],
+    "status": "active",
+    "sortOrder": 3,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-004",
+    "slug": "education-results",
+    "name": {
+      "en": "Education, Admission & Results",
+      "bn": "শিক্ষা, ভর্তি ও ফলাফল"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for education, admission & results.",
+      "bn": "শিক্ষা, ভর্তি ও ফলাফল সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-007",
+      "SUB-008"
+    ],
+    "serviceIds": [
+      "SVC-0019",
+      "SVC-0020",
+      "SVC-0032",
+      "SVC-0044"
+    ],
+    "status": "active",
+    "sortOrder": 4,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-005",
+    "slug": "health-medical",
+    "name": {
+      "en": "Health & Medical Services",
+      "bn": "স্বাস্থ্য ও চিকিৎসাসেবা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for health & medical services.",
+      "bn": "স্বাস্থ্য ও চিকিৎসাসেবা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-009",
+      "SUB-010"
+    ],
+    "serviceIds": [
+      "SVC-0011",
+      "SVC-0012"
+    ],
+    "status": "active",
+    "sortOrder": 5,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-006",
+    "slug": "land-property",
+    "name": {
+      "en": "Land & Property Services",
+      "bn": "ভূমি ও সম্পত্তি"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for land & property services.",
+      "bn": "ভূমি ও সম্পত্তি সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-011",
+      "SUB-012"
+    ],
+    "serviceIds": [
+      "SVC-0025",
+      "SVC-0026",
+      "SVC-0027",
+      "SVC-0028",
+      "SVC-0208"
+    ],
+    "status": "active",
+    "sortOrder": 6,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-007",
+    "slug": "tax-revenue",
+    "name": {
+      "en": "Tax, VAT & Revenue",
+      "bn": "কর, ভ্যাট ও রাজস্ব"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for tax, vat & revenue.",
+      "bn": "কর, ভ্যাট ও রাজস্ব সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-013"
+    ],
+    "serviceIds": [
+      "SVC-0007",
+      "SVC-0008",
+      "SVC-0219"
+    ],
+    "status": "active",
+    "sortOrder": 7,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-008",
+    "slug": "finance-banking",
+    "name": {
+      "en": "Finance, Banking & Payments",
+      "bn": "অর্থ, ব্যাংকিং ও পেমেন্ট"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for finance, banking & payments.",
+      "bn": "অর্থ, ব্যাংকিং ও পেমেন্ট সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-014"
+    ],
+    "serviceIds": [
+      "SVC-0030"
+    ],
+    "status": "active",
+    "sortOrder": 8,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-009",
+    "slug": "business-startup",
+    "name": {
+      "en": "Business & Entrepreneurship",
+      "bn": "ব্যবসা ও উদ্যোক্তা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for business & entrepreneurship.",
+      "bn": "ব্যবসা ও উদ্যোক্তা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-015"
+    ],
+    "serviceIds": [
+      "SVC-0042"
+    ],
+    "status": "active",
+    "sortOrder": 9,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-010",
+    "slug": "transport-vehicles",
+    "name": {
+      "en": "Transport & Vehicles",
+      "bn": "পরিবহন ও যানবাহন"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for transport & vehicles.",
+      "bn": "পরিবহন ও যানবাহন সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-016"
+    ],
+    "serviceIds": [
+      "SVC-0013",
+      "SVC-0014"
+    ],
+    "status": "active",
+    "sortOrder": 10,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-011",
+    "slug": "overseas-employment",
+    "name": {
+      "en": "Overseas Employment & Migration",
+      "bn": "বিদেশে কর্মসংস্থান ও অভিবাসন"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for overseas employment & migration.",
+      "bn": "বিদেশে কর্মসংস্থান ও অভিবাসন সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-017"
+    ],
+    "serviceIds": [
+      "SVC-0006",
+      "SVC-0211"
+    ],
+    "status": "active",
+    "sortOrder": 11,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-012",
+    "slug": "emergency-safety",
+    "name": {
+      "en": "Emergency Services & Public Safety",
+      "bn": "জরুরি সেবা ও জননিরাপত্তা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for emergency services & public safety.",
+      "bn": "জরুরি সেবা ও জননিরাপত্তা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-018"
+    ],
+    "serviceIds": [
+      "SVC-0017",
+      "SVC-0035",
+      "SVC-0036",
+      "SVC-0218",
+      "SVC-0227"
+    ],
+    "status": "active",
+    "sortOrder": 12,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-013",
+    "slug": "public-administration",
+    "name": {
+      "en": "Public Administration",
+      "bn": "জনপ্রশাসন"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for public administration.",
+      "bn": "জনপ্রশাসন সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-029"
+    ],
+    "serviceIds": [
+      "SVC-0023"
+    ],
+    "status": "active",
+    "sortOrder": 13,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-014",
+    "slug": "law-justice",
+    "name": {
+      "en": "Law, Courts & Justice",
+      "bn": "আইন, আদালত ও বিচার"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for law, courts & justice.",
+      "bn": "আইন, আদালত ও বিচার সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-019"
+    ],
+    "serviceIds": [
+      "SVC-0029",
+      "SVC-0203",
+      "SVC-0204",
+      "SVC-0220"
+    ],
+    "status": "active",
+    "sortOrder": 14,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-015",
+    "slug": "elections-voting",
+    "name": {
+      "en": "Elections & Voter Services",
+      "bn": "নির্বাচন ও ভোটার সেবা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for elections & voter services.",
+      "bn": "নির্বাচন ও ভোটার সেবা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-030"
+    ],
+    "serviceIds": [
+      "PLH-CAT-015",
+      "SVC-0226"
+    ],
+    "status": "active",
+    "sortOrder": 15,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-016",
+    "slug": "electricity-energy",
+    "name": {
+      "en": "Electricity & Energy Services",
+      "bn": "বিদ্যুৎ ও জ্বালানি সেবা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for electricity & energy services.",
+      "bn": "বিদ্যুৎ ও জ্বালানি সেবা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-020"
+    ],
+    "serviceIds": [
+      "SVC-0022",
+      "SVC-0214",
+      "SVC-0228"
+    ],
+    "status": "active",
+    "sortOrder": 16,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-017",
+    "slug": "gas-water-utilities",
+    "name": {
+      "en": "Gas, Water & Utilities",
+      "bn": "গ্যাস, পানি ও ইউটিলিটি"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for gas, water & utilities.",
+      "bn": "গ্যাস, পানি ও ইউটিলিটি সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-031"
+    ],
+    "serviceIds": [
+      "PLH-CAT-017"
+    ],
+    "status": "active",
+    "sortOrder": 17,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-018",
+    "slug": "agriculture",
+    "name": {
+      "en": "Agriculture & Farming",
+      "bn": "কৃষি ও কৃষিকাজ"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for agriculture & farming.",
+      "bn": "কৃষি ও কৃষিকাজ সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-021"
+    ],
+    "serviceIds": [
+      "SVC-0040",
+      "SVC-0223"
+    ],
+    "status": "active",
+    "sortOrder": 18,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-019",
+    "slug": "livestock-veterinary",
+    "name": {
+      "en": "Livestock & Veterinary Services",
+      "bn": "প্রাণিসম্পদ ও পশুচিকিৎসা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for livestock & veterinary services.",
+      "bn": "প্রাণিসম্পদ ও পশুচিকিৎসা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-032"
+    ],
+    "serviceIds": [
+      "PLH-CAT-019",
+      "SVC-0224"
+    ],
+    "status": "active",
+    "sortOrder": 19,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-020",
+    "slug": "fisheries-marine",
+    "name": {
+      "en": "Fisheries & Marine Resources",
+      "bn": "মৎস্য ও সামুদ্রিক সম্পদ"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for fisheries & marine resources.",
+      "bn": "মৎস্য ও সামুদ্রিক সম্পদ সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-033"
+    ],
+    "serviceIds": [
+      "PLH-CAT-020",
+      "SVC-0225"
+    ],
+    "status": "active",
+    "sortOrder": 20,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-021",
+    "slug": "weather-climate",
+    "name": {
+      "en": "Weather, Climate & Environment",
+      "bn": "আবহাওয়া, জলবায়ু ও পরিবেশ"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for weather, climate & environment.",
+      "bn": "আবহাওয়া, জলবায়ু ও পরিবেশ সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-022"
+    ],
+    "serviceIds": [
+      "SVC-0039"
+    ],
+    "status": "active",
+    "sortOrder": 21,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-022",
+    "slug": "local-government",
+    "name": {
+      "en": "Local Government & Municipal Services",
+      "bn": "স্থানীয় সরকার ও পৌরসেবা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for local government & municipal services.",
+      "bn": "স্থানীয় সরকার ও পৌরসেবা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-034"
+    ],
+    "serviceIds": [
+      "PLH-CAT-022"
+    ],
+    "status": "active",
+    "sortOrder": 22,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-023",
+    "slug": "ict-digital",
+    "name": {
+      "en": "ICT & Digital Government",
+      "bn": "আইসিটি ও ডিজিটাল সরকার"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for ict & digital government.",
+      "bn": "আইসিটি ও ডিজিটাল সরকার সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-023"
+    ],
+    "serviceIds": [
+      "SVC-0018",
+      "SVC-0033"
+    ],
+    "status": "active",
+    "sortOrder": 23,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-024",
+    "slug": "cybersecurity",
+    "name": {
+      "en": "Cybersecurity & Digital Safety",
+      "bn": "সাইবার নিরাপত্তা ও ডিজিটাল সুরক্ষা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for cybersecurity & digital safety.",
+      "bn": "সাইবার নিরাপত্তা ও ডিজিটাল সুরক্ষা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-035"
+    ],
+    "serviceIds": [
+      "PLH-CAT-024"
+    ],
+    "status": "active",
+    "sortOrder": 24,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-025",
+    "slug": "labour-skills",
+    "name": {
+      "en": "Labour, Training & Skills",
+      "bn": "শ্রম, প্রশিক্ষণ ও দক্ষতা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for labour, training & skills.",
+      "bn": "শ্রম, প্রশিক্ষণ ও দক্ষতা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-036"
+    ],
+    "serviceIds": [
+      "PLH-CAT-025",
+      "SVC-0209"
+    ],
+    "status": "active",
+    "sortOrder": 25,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-026",
+    "slug": "social-welfare",
+    "name": {
+      "en": "Social Welfare & Allowances",
+      "bn": "সমাজকল্যাণ ও ভাতা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for social welfare & allowances.",
+      "bn": "সমাজকল্যাণ ও ভাতা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-027"
+    ],
+    "serviceIds": [
+      "PLH-CAT-026"
+    ],
+    "status": "active",
+    "sortOrder": 26,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-027",
+    "slug": "women-children",
+    "name": {
+      "en": "Women, Children & Family",
+      "bn": "নারী, শিশু ও পরিবার"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for women, children & family.",
+      "bn": "নারী, শিশু ও পরিবার সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-037"
+    ],
+    "serviceIds": [
+      "PLH-CAT-027",
+      "SVC-0205",
+      "SVC-0206"
+    ],
+    "status": "active",
+    "sortOrder": 27,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-028",
+    "slug": "food-consumer",
+    "name": {
+      "en": "Food, Food Safety & Consumer Rights",
+      "bn": "খাদ্য, খাদ্যনিরাপত্তা ও ভোক্তা অধিকার"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for food, food safety & consumer rights.",
+      "bn": "খাদ্য, খাদ্যনিরাপত্তা ও ভোক্তা অধিকার সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-038"
+    ],
+    "serviceIds": [
+      "PLH-CAT-028",
+      "SVC-0221",
+      "SVC-0222"
+    ],
+    "status": "active",
+    "sortOrder": 28,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-029",
+    "slug": "statistics-data",
+    "name": {
+      "en": "Statistics, Census & Open Data",
+      "bn": "পরিসংখ্যান, জনশুমারি ও উন্মুক্ত তথ্য"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for statistics, census & open data.",
+      "bn": "পরিসংখ্যান, জনশুমারি ও উন্মুক্ত তথ্য সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-039"
+    ],
+    "serviceIds": [
+      "PLH-CAT-029"
+    ],
+    "status": "active",
+    "sortOrder": 29,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-030",
+    "slug": "foreign-affairs",
+    "name": {
+      "en": "Foreign Affairs & Diplomacy",
+      "bn": "পররাষ্ট্র ও কূটনীতি"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for foreign affairs & diplomacy.",
+      "bn": "পররাষ্ট্র ও কূটনীতি সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-040"
+    ],
+    "serviceIds": [
+      "PLH-CAT-030"
+    ],
+    "status": "active",
+    "sortOrder": 30,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-031",
+    "slug": "tourism-culture",
+    "name": {
+      "en": "Tourism, Culture & Heritage",
+      "bn": "পর্যটন, সংস্কৃতি ও ঐতিহ্য"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for tourism, culture & heritage.",
+      "bn": "পর্যটন, সংস্কৃতি ও ঐতিহ্য সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-041"
+    ],
+    "serviceIds": [
+      "PLH-CAT-031"
+    ],
+    "status": "active",
+    "sortOrder": 31,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-032",
+    "slug": "religious-affairs",
+    "name": {
+      "en": "Religious Affairs & Pilgrimage",
+      "bn": "ধর্মীয় বিষয় ও হজ"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for religious affairs & pilgrimage.",
+      "bn": "ধর্মীয় বিষয় ও হজ সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-042"
+    ],
+    "serviceIds": [
+      "PLH-CAT-032"
+    ],
+    "status": "active",
+    "sortOrder": 32,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-033",
+    "slug": "defence-liberation",
+    "name": {
+      "en": "Defence & Liberation War",
+      "bn": "প্রতিরক্ষা ও মুক্তিযুদ্ধ"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for defence & liberation war.",
+      "bn": "প্রতিরক্ষা ও মুক্তিযুদ্ধ সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-043"
+    ],
+    "serviceIds": [
+      "PLH-CAT-033"
+    ],
+    "status": "active",
+    "sortOrder": 33,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-034",
+    "slug": "postal-telecom",
+    "name": {
+      "en": "Postal Services & Telecommunications",
+      "bn": "ডাক ও টেলিযোগাযোগ"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for postal services & telecommunications.",
+      "bn": "ডাক ও টেলিযোগাযোগ সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-044"
+    ],
+    "serviceIds": [
+      "PLH-CAT-034",
+      "SVC-0213"
+    ],
+    "status": "active",
+    "sortOrder": 34,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-035",
+    "slug": "science-research",
+    "name": {
+      "en": "Science, Research & Innovation",
+      "bn": "বিজ্ঞান, গবেষণা ও উদ্ভাবন"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for science, research & innovation.",
+      "bn": "বিজ্ঞান, গবেষণা ও উদ্ভাবন সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-045"
+    ],
+    "serviceIds": [
+      "PLH-CAT-035"
+    ],
+    "status": "active",
+    "sortOrder": 35,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-036",
+    "slug": "libraries-archives",
+    "name": {
+      "en": "Libraries, Archives & Records",
+      "bn": "গ্রন্থাগার, আর্কাইভ ও নথি"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for libraries, archives & records.",
+      "bn": "গ্রন্থাগার, আর্কাইভ ও নথি সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-046"
+    ],
+    "serviceIds": [
+      "PLH-CAT-036",
+      "EXT-054"
+    ],
+    "status": "active",
+    "sortOrder": 36,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-037",
+    "slug": "government-media",
+    "name": {
+      "en": "Government Media & Publications",
+      "bn": "সরকারি গণমাধ্যম ও প্রকাশনা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for government media & publications.",
+      "bn": "সরকারি গণমাধ্যম ও প্রকাশনা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-047"
+    ],
+    "serviceIds": [
+      "PLH-CAT-037"
+    ],
+    "status": "active",
+    "sortOrder": 37,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-038",
+    "slug": "insurance-pensions",
+    "name": {
+      "en": "Insurance, Pensions & Retirement",
+      "bn": "বীমা, পেনশন ও অবসর"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for insurance, pensions & retirement.",
+      "bn": "বীমা, পেনশন ও অবসর সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-048"
+    ],
+    "serviceIds": [
+      "PLH-CAT-038",
+      "SVC-0210"
+    ],
+    "status": "active",
+    "sortOrder": 38,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-039",
+    "slug": "procurement-tenders",
+    "name": {
+      "en": "Public Procurement & Tenders",
+      "bn": "সরকারি ক্রয় ও দরপত্র"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for public procurement & tenders.",
+      "bn": "সরকারি ক্রয় ও দরপত্র সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-024"
+    ],
+    "serviceIds": [
+      "SVC-0009",
+      "SVC-0010",
+      "SVC-0212"
+    ],
+    "status": "active",
+    "sortOrder": 39,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-040",
+    "slug": "human-rights",
+    "name": {
+      "en": "Human Rights & Legal Protection",
+      "bn": "মানবাধিকার ও আইনি সুরক্ষা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for human rights & legal protection.",
+      "bn": "মানবাধিকার ও আইনি সুরক্ষা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-049"
+    ],
+    "serviceIds": [
+      "PLH-CAT-040"
+    ],
+    "status": "active",
+    "sortOrder": 40,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-041",
+    "slug": "water-flood-control",
+    "name": {
+      "en": "Water Resources & Flood Control",
+      "bn": "পানি সম্পদ ও বন্যা নিয়ন্ত্রণ"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for water resources & flood control.",
+      "bn": "পানি সম্পদ ও বন্যা নিয়ন্ত্রণ সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-050"
+    ],
+    "serviceIds": [
+      "PLH-CAT-041"
+    ],
+    "status": "active",
+    "sortOrder": 41,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-042",
+    "slug": "rail-ports-logistics",
+    "name": {
+      "en": "Railways, Ports & Logistics",
+      "bn": "রেল, বন্দর ও লজিস্টিকস"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for railways, ports & logistics.",
+      "bn": "রেল, বন্দর ও লজিস্টিকস সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-025"
+    ],
+    "serviceIds": [
+      "SVC-0015"
+    ],
+    "status": "active",
+    "sortOrder": 42,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-043",
+    "slug": "housing-construction",
+    "name": {
+      "en": "Housing, Construction & Urban Development",
+      "bn": "আবাসন, নির্মাণ ও নগর উন্নয়ন"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for housing, construction & urban development.",
+      "bn": "আবাসন, নির্মাণ ও নগর উন্নয়ন সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-051"
+    ],
+    "serviceIds": [
+      "PLH-CAT-043"
+    ],
+    "status": "active",
+    "sortOrder": 43,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-044",
+    "slug": "minerals-natural-resources",
+    "name": {
+      "en": "Minerals & Natural Resources",
+      "bn": "খনিজ ও প্রাকৃতিক সম্পদ"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for minerals & natural resources.",
+      "bn": "খনিজ ও প্রাকৃতিক সম্পদ সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-052"
+    ],
+    "serviceIds": [
+      "PLH-CAT-044"
+    ],
+    "status": "active",
+    "sortOrder": 44,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-045",
+    "slug": "cooperatives-rural",
+    "name": {
+      "en": "Cooperatives & Rural Development",
+      "bn": "সমবায় ও গ্রামীণ উন্নয়ন"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for cooperatives & rural development.",
+      "bn": "সমবায় ও গ্রামীণ উন্নয়ন সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-053"
+    ],
+    "serviceIds": [
+      "PLH-CAT-045"
+    ],
+    "status": "active",
+    "sortOrder": 45,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-046",
+    "slug": "sports-youth",
+    "name": {
+      "en": "Sports & Youth Development",
+      "bn": "ক্রীড়া ও যুব উন্নয়ন"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for sports & youth development.",
+      "bn": "ক্রীড়া ও যুব উন্নয়ন সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-054"
+    ],
+    "serviceIds": [
+      "PLH-CAT-046"
+    ],
+    "status": "active",
+    "sortOrder": 46,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-047",
+    "slug": "intellectual-property",
+    "name": {
+      "en": "Intellectual Property & Standards",
+      "bn": "মেধাস্বত্ব ও মান নিয়ন্ত্রণ"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for intellectual property & standards.",
+      "bn": "মেধাস্বত্ব ও মান নিয়ন্ত্রণ সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-055"
+    ],
+    "serviceIds": [
+      "PLH-CAT-047"
+    ],
+    "status": "active",
+    "sortOrder": 47,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-048",
+    "slug": "trade-commerce",
+    "name": {
+      "en": "Trade, Export & Import",
+      "bn": "বাণিজ্য, রপ্তানি ও আমদানি"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for trade, export & import.",
+      "bn": "বাণিজ্য, রপ্তানি ও আমদানি সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-056"
+    ],
+    "serviceIds": [
+      "PLH-CAT-048"
+    ],
+    "status": "active",
+    "sortOrder": 48,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-049",
+    "slug": "public-complaints",
+    "name": {
+      "en": "Public Complaints & Accountability",
+      "bn": "জনঅভিযোগ ও জবাবদিহি"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for public complaints & accountability.",
+      "bn": "জনঅভিযোগ ও জবাবদিহি সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-028"
+    ],
+    "serviceIds": [
+      "PLH-CAT-049",
+      "SVC-0207"
+    ],
+    "status": "active",
+    "sortOrder": 49,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-050",
+    "slug": "disaster-management",
+    "name": {
+      "en": "Disaster Management & Relief",
+      "bn": "দুর্যোগ ব্যবস্থাপনা ও ত্রাণ"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for disaster management & relief.",
+      "bn": "দুর্যোগ ব্যবস্থাপনা ও ত্রাণ সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-026"
+    ],
+    "serviceIds": [
+      "SVC-0021",
+      "SVC-0045",
+      "SVC-0217"
+    ],
+    "status": "active",
+    "sortOrder": 50,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-051",
+    "slug": "immigration-visas",
+    "name": {
+      "en": "Immigration, Visas & Consular Services",
+      "bn": "ইমিগ্রেশন, ভিসা ও কনস্যুলার সেবা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for immigration, visas & consular services.",
+      "bn": "ইমিগ্রেশন, ভিসা ও কনস্যুলার সেবা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-057"
+    ],
+    "serviceIds": [
+      "SVC-0034"
+    ],
+    "status": "active",
+    "sortOrder": 51,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-052",
+    "slug": "aviation-airports",
+    "name": {
+      "en": "Aviation & Airports",
+      "bn": "বিমান চলাচল ও বিমানবন্দর"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for aviation & airports.",
+      "bn": "বিমান চলাচল ও বিমানবন্দর সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-058"
+    ],
+    "serviceIds": [
+      "PLH-CAT-052"
+    ],
+    "status": "active",
+    "sortOrder": 52,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-053",
+    "slug": "maritime-coastguard",
+    "name": {
+      "en": "Maritime Safety & Coast Guard",
+      "bn": "সামুদ্রিক নিরাপত্তা ও কোস্ট গার্ড"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for maritime safety & coast guard.",
+      "bn": "সামুদ্রিক নিরাপত্তা ও কোস্ট গার্ড সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-059"
+    ],
+    "serviceIds": [
+      "PLH-CAT-053",
+      "SVC-0215",
+      "SVC-0216"
+    ],
+    "status": "active",
+    "sortOrder": 53,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-054",
+    "slug": "urban-services",
+    "name": {
+      "en": "Urban Services & City Corporations",
+      "bn": "নগরসেবা ও সিটি কর্পোরেশন"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for urban services & city corporations.",
+      "bn": "নগরসেবা ও সিটি কর্পোরেশন সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-060"
+    ],
+    "serviceIds": [
+      "PLH-CAT-054"
+    ],
+    "status": "active",
+    "sortOrder": 54,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-055",
+    "slug": "permits-certificates",
+    "name": {
+      "en": "Permits, Certificates & Forms",
+      "bn": "অনুমতি, সনদ ও ফরম"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for permits, certificates & forms.",
+      "bn": "অনুমতি, সনদ ও ফরম সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-061"
+    ],
+    "serviceIds": [
+      "SVC-0043"
+    ],
+    "status": "active",
+    "sortOrder": 55,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-056",
+    "slug": "public-procurement-data",
+    "name": {
+      "en": "Public Finance & Budget Transparency",
+      "bn": "সরকারি অর্থায়ন ও বাজেট স্বচ্ছতা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for public finance & budget transparency.",
+      "bn": "সরকারি অর্থায়ন ও বাজেট স্বচ্ছতা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-062"
+    ],
+    "serviceIds": [
+      "PLH-CAT-056"
+    ],
+    "status": "active",
+    "sortOrder": 56,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-057",
+    "slug": "research-grants",
+    "name": {
+      "en": "Research Grants & Scholarships",
+      "bn": "গবেষণা অনুদান ও বৃত্তি"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for research grants & scholarships.",
+      "bn": "গবেষণা অনুদান ও বৃত্তি সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-063"
+    ],
+    "serviceIds": [
+      "PLH-CAT-057"
+    ],
+    "status": "active",
+    "sortOrder": 57,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-058",
+    "slug": "consumer-prices-markets",
+    "name": {
+      "en": "Market Prices & Commodity Information",
+      "bn": "বাজারদর ও পণ্যের তথ্য"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for market prices & commodity information.",
+      "bn": "বাজারদর ও পণ্যের তথ্য সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-064"
+    ],
+    "serviceIds": [
+      "SVC-0041"
+    ],
+    "status": "active",
+    "sortOrder": 58,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-059",
+    "slug": "public-transport",
+    "name": {
+      "en": "Public Transport & Ticketing",
+      "bn": "গণপরিবহন ও টিকিট"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for public transport & ticketing.",
+      "bn": "গণপরিবহন ও টিকিট সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-065"
+    ],
+    "serviceIds": [
+      "SVC-0016"
+    ],
+    "status": "active",
+    "sortOrder": 59,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-060",
+    "slug": "other-essential",
+    "name": {
+      "en": "Other Essential Public Services",
+      "bn": "অন্যান্য গুরুত্বপূর্ণ জনসেবা"
+    },
+    "description": {
+      "en": "Bangladesh services and official resources for other essential public services.",
+      "bn": "অন্যান্য গুরুত্বপূর্ণ জনসেবা সংক্রান্ত সরকারি ও গুরুত্বপূর্ণ সেবার তালিকা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-066"
+    ],
+    "serviceIds": [
+      "PLH-CAT-060"
+    ],
+    "status": "active",
+    "sortOrder": 60,
+    "sector": "government-or-public"
+  },
+  {
+    "id": "CAT-061",
+    "slug": "online-shopping",
+    "name": {
+      "en": "Online Shopping & Marketplaces",
+      "bn": "অনলাইন শপিং ও মার্কেটপ্লেস"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: online shopping & marketplaces.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: অনলাইন শপিং ও মার্কেটপ্লেস।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-067"
+    ],
+    "serviceIds": [
+      "PRV-001",
+      "PRV-002",
+      "PRV-003"
+    ],
+    "status": "active",
+    "sortOrder": 61,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-062",
+    "slug": "groceries-household",
+    "name": {
+      "en": "Groceries & Household Delivery",
+      "bn": "মুদি ও গৃহস্থালি পণ্য ডেলিভারি"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: groceries & household delivery.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: মুদি ও গৃহস্থালি পণ্য ডেলিভারি।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-068"
+    ],
+    "serviceIds": [
+      "PRV-004",
+      "PRV-005"
+    ],
+    "status": "active",
+    "sortOrder": 62,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-063",
+    "slug": "food-delivery",
+    "name": {
+      "en": "Food Ordering & Delivery",
+      "bn": "খাবার অর্ডার ও ডেলিভারি"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: food ordering & delivery.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: খাবার অর্ডার ও ডেলিভারি।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-069"
+    ],
+    "serviceIds": [
+      "PRV-006"
+    ],
+    "status": "active",
+    "sortOrder": 63,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-064",
+    "slug": "ride-hailing",
+    "name": {
+      "en": "Ride-Hailing & Local Mobility",
+      "bn": "রাইড শেয়ারিং ও স্থানীয় যাতায়াত"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: ride-hailing & local mobility.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: রাইড শেয়ারিং ও স্থানীয় যাতায়াত।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-070"
+    ],
+    "serviceIds": [
+      "PRV-007",
+      "PRV-008"
+    ],
+    "status": "active",
+    "sortOrder": 64,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-065",
+    "slug": "bus-launch-tickets",
+    "name": {
+      "en": "Bus, Launch & Intercity Tickets",
+      "bn": "বাস, লঞ্চ ও আন্তঃনগর টিকিট"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: bus, launch & intercity tickets.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: বাস, লঞ্চ ও আন্তঃনগর টিকিট।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-071"
+    ],
+    "serviceIds": [
+      "PRV-009",
+      "PRV-010",
+      "EXT-056"
+    ],
+    "status": "active",
+    "sortOrder": 65,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-066",
+    "slug": "flights-hotels",
+    "name": {
+      "en": "Flights, Hotels & Travel Booking",
+      "bn": "বিমান, হোটেল ও ভ্রমণ বুকিং"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: flights, hotels & travel booking.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: বিমান, হোটেল ও ভ্রমণ বুকিং।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-072"
+    ],
+    "serviceIds": [
+      "PRV-011",
+      "PRV-012",
+      "PRV-013",
+      "EXT-037"
+    ],
+    "status": "active",
+    "sortOrder": 66,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-067",
+    "slug": "courier-parcel",
+    "name": {
+      "en": "Courier, Parcel & Logistics",
+      "bn": "কুরিয়ার, পার্সেল ও লজিস্টিকস"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: courier, parcel & logistics.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: কুরিয়ার, পার্সেল ও লজিস্টিকস।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-073"
+    ],
+    "serviceIds": [
+      "PRV-014",
+      "PRV-015"
+    ],
+    "status": "active",
+    "sortOrder": 67,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-068",
+    "slug": "private-jobs-careers",
+    "name": {
+      "en": "Private Jobs & Career Platforms",
+      "bn": "বেসরকারি চাকরি ও ক্যারিয়ার"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: private jobs & career platforms.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: বেসরকারি চাকরি ও ক্যারিয়ার।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-074"
+    ],
+    "serviceIds": [
+      "PRV-016",
+      "PRV-017"
+    ],
+    "status": "active",
+    "sortOrder": 68,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-069",
+    "slug": "freelancing-remote-work",
+    "name": {
+      "en": "Freelancing & Remote Work",
+      "bn": "ফ্রিল্যান্সিং ও রিমোট কাজ"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: freelancing & remote work.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: ফ্রিল্যান্সিং ও রিমোট কাজ।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-075"
+    ],
+    "serviceIds": [
+      "PRV-018",
+      "PRV-019",
+      "EXT-014"
+    ],
+    "status": "active",
+    "sortOrder": 69,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-070",
+    "slug": "online-learning",
+    "name": {
+      "en": "Online Learning & Skills",
+      "bn": "অনলাইন শিক্ষা ও দক্ষতা"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: online learning & skills.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: অনলাইন শিক্ষা ও দক্ষতা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-076"
+    ],
+    "serviceIds": [
+      "PRV-020",
+      "PRV-021",
+      "EXT-015",
+      "EXT-016",
+      "EXT-017",
+      "EXT-018"
+    ],
+    "status": "active",
+    "sortOrder": 70,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-071",
+    "slug": "books-stationery",
+    "name": {
+      "en": "Books, Stationery & Learning Materials",
+      "bn": "বই, স্টেশনারি ও শিক্ষা উপকরণ"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: books, stationery & learning materials.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: বই, স্টেশনারি ও শিক্ষা উপকরণ।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-077"
+    ],
+    "serviceIds": [
+      "PRV-022"
+    ],
+    "status": "active",
+    "sortOrder": 71,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-072",
+    "slug": "electronics-tech-shopping",
+    "name": {
+      "en": "Electronics & Technology Shopping",
+      "bn": "ইলেকট্রনিক্স ও প্রযুক্তি পণ্য"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: electronics & technology shopping.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: ইলেকট্রনিক্স ও প্রযুক্তি পণ্য।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-078"
+    ],
+    "serviceIds": [
+      "PRV-023",
+      "PRV-024"
+    ],
+    "status": "active",
+    "sortOrder": 72,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-073",
+    "slug": "classifieds-resale",
+    "name": {
+      "en": "Classifieds, Buy/Sell & Resale",
+      "bn": "ক্লাসিফায়েড, কেনাবেচা ও রিসেল"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: classifieds, buy/sell & resale.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: ক্লাসিফায়েড, কেনাবেচা ও রিসেল।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-079"
+    ],
+    "serviceIds": [
+      "PRV-025"
+    ],
+    "status": "active",
+    "sortOrder": 73,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-074",
+    "slug": "home-services-repairs",
+    "name": {
+      "en": "Home Services & Repairs",
+      "bn": "হোম সার্ভিস ও মেরামত"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: home services & repairs.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: হোম সার্ভিস ও মেরামত।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-080"
+    ],
+    "serviceIds": [
+      "PRV-026"
+    ],
+    "status": "active",
+    "sortOrder": 74,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-075",
+    "slug": "private-healthcare",
+    "name": {
+      "en": "Private Healthcare & Appointments",
+      "bn": "বেসরকারি স্বাস্থ্যসেবা ও অ্যাপয়েন্টমেন্ট"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: private healthcare & appointments.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: বেসরকারি স্বাস্থ্যসেবা ও অ্যাপয়েন্টমেন্ট।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-081"
+    ],
+    "serviceIds": [
+      "PRV-027",
+      "PRV-028",
+      "EXT-047"
+    ],
+    "status": "active",
+    "sortOrder": 75,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-076",
+    "slug": "telemedicine-pharmacy",
+    "name": {
+      "en": "Telemedicine & Online Pharmacy",
+      "bn": "টেলিমেডিসিন ও অনলাইন ফার্মেসি"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: telemedicine & online pharmacy.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: টেলিমেডিসিন ও অনলাইন ফার্মেসি।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-082"
+    ],
+    "serviceIds": [
+      "PRV-029"
+    ],
+    "status": "active",
+    "sortOrder": 76,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-077",
+    "slug": "news-media",
+    "name": {
+      "en": "News, Newspapers & Media",
+      "bn": "সংবাদ, সংবাদপত্র ও গণমাধ্যম"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: news, newspapers & media.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: সংবাদ, সংবাদপত্র ও গণমাধ্যম।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-083"
+    ],
+    "serviceIds": [
+      "PRV-030",
+      "PRV-031",
+      "PRV-032"
+    ],
+    "status": "active",
+    "sortOrder": 77,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-078",
+    "slug": "sports-entertainment",
+    "name": {
+      "en": "Sports & Entertainment",
+      "bn": "খেলাধুলা ও বিনোদন"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: sports & entertainment.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: খেলাধুলা ও বিনোদন।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-084"
+    ],
+    "serviceIds": [
+      "PRV-033"
+    ],
+    "status": "active",
+    "sortOrder": 78,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-079",
+    "slug": "maps-navigation",
+    "name": {
+      "en": "Maps, Navigation & Local Discovery",
+      "bn": "ম্যাপ, নেভিগেশন ও স্থানীয় খোঁজ"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: maps, navigation & local discovery.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: ম্যাপ, নেভিগেশন ও স্থানীয় খোঁজ।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-085"
+    ],
+    "serviceIds": [
+      "PRV-034",
+      "EXT-055"
+    ],
+    "status": "active",
+    "sortOrder": 79,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-080",
+    "slug": "internet-mobile-operators",
+    "name": {
+      "en": "Internet & Mobile Operators",
+      "bn": "ইন্টারনেট ও মোবাইল অপারেটর"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: internet & mobile operators.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: ইন্টারনেট ও মোবাইল অপারেটর।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-086"
+    ],
+    "serviceIds": [
+      "PRV-035",
+      "PRV-036",
+      "PRV-037",
+      "PRV-038"
+    ],
+    "status": "active",
+    "sortOrder": 80,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-081",
+    "slug": "private-banking-fintech",
+    "name": {
+      "en": "Private Banking, MFS & Fintech",
+      "bn": "বেসরকারি ব্যাংকিং, এমএফএস ও ফিনটেক"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: private banking, mfs & fintech.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: বেসরকারি ব্যাংকিং, এমএফএস ও ফিনটেক।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-087"
+    ],
+    "serviceIds": [
+      "PRV-039",
+      "PRV-040",
+      "PRV-041",
+      "PRV-042",
+      "PRV-043",
+      "EXT-001"
+    ],
+    "status": "active",
+    "sortOrder": 81,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-082",
+    "slug": "insurance-financial-planning",
+    "name": {
+      "en": "Insurance & Financial Planning",
+      "bn": "বীমা ও আর্থিক পরিকল্পনা"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: insurance & financial planning.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: বীমা ও আর্থিক পরিকল্পনা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-088"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 82,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-083",
+    "slug": "utility-payment",
+    "name": {
+      "en": "Utility Bill Payment & Recharge",
+      "bn": "ইউটিলিটি বিল পেমেন্ট ও রিচার্জ"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: utility bill payment & recharge.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: ইউটিলিটি বিল পেমেন্ট ও রিচার্জ।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-089"
+    ],
+    "serviceIds": [
+      "PRV-044"
+    ],
+    "status": "active",
+    "sortOrder": 83,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-084",
+    "slug": "ngo-charity",
+    "name": {
+      "en": "NGOs, Charity & Volunteering",
+      "bn": "এনজিও, দাতব্য ও স্বেচ্ছাসেবা"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: ngos, charity & volunteering.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: এনজিও, দাতব্য ও স্বেচ্ছাসেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-090"
+    ],
+    "serviceIds": [
+      "PRV-045",
+      "PRV-046"
+    ],
+    "status": "active",
+    "sortOrder": 84,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-085",
+    "slug": "real-estate-rentals",
+    "name": {
+      "en": "Real Estate, Rentals & Property",
+      "bn": "রিয়েল এস্টেট, ভাড়া ও সম্পত্তি"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: real estate, rentals & property.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: রিয়েল এস্টেট, ভাড়া ও সম্পত্তি।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-091"
+    ],
+    "serviceIds": [
+      "PRV-047",
+      "PRV-048",
+      "EXT-036"
+    ],
+    "status": "active",
+    "sortOrder": 85,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-086",
+    "slug": "legal-professional-services",
+    "name": {
+      "en": "Legal & Professional Services",
+      "bn": "আইনি ও পেশাগত সেবা"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: legal & professional services.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: আইনি ও পেশাগত সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-092"
+    ],
+    "serviceIds": [
+      "EXT-048"
+    ],
+    "status": "active",
+    "sortOrder": 86,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-087",
+    "slug": "matrimony-family",
+    "name": {
+      "en": "Matrimony & Family Connections",
+      "bn": "বিবাহ ও পারিবারিক যোগাযোগ"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: matrimony & family connections.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: বিবাহ ও পারিবারিক যোগাযোগ।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-093"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 87,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-088",
+    "slug": "digital-tools",
+    "name": {
+      "en": "Digital Tools & Productivity",
+      "bn": "ডিজিটাল টুলস ও প্রোডাক্টিভিটি"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: digital tools & productivity.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: ডিজিটাল টুলস ও প্রোডাক্টিভিটি।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-094"
+    ],
+    "serviceIds": [
+      "PRV-049",
+      "EXT-021",
+      "EXT-063",
+      "EXT-064"
+    ],
+    "status": "active",
+    "sortOrder": 88,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-089",
+    "slug": "cloud-hosting-domains",
+    "name": {
+      "en": "Domains, Hosting & Cloud Services",
+      "bn": "ডোমেইন, হোস্টিং ও ক্লাউড সেবা"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: domains, hosting & cloud services.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: ডোমেইন, হোস্টিং ও ক্লাউড সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-095"
+    ],
+    "serviceIds": [
+      "PRV-051",
+      "PRV-052",
+      "EXT-033",
+      "EXT-034",
+      "EXT-035"
+    ],
+    "status": "active",
+    "sortOrder": 89,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-090",
+    "slug": "design-marketing",
+    "name": {
+      "en": "Design, Printing & Digital Marketing",
+      "bn": "ডিজাইন, প্রিন্টিং ও ডিজিটাল মার্কেটিং"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: design, printing & digital marketing.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: ডিজাইন, প্রিন্টিং ও ডিজিটাল মার্কেটিং।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-096"
+    ],
+    "serviceIds": [
+      "PRV-050",
+      "EXT-059"
+    ],
+    "status": "active",
+    "sortOrder": 90,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-091",
+    "slug": "events-tickets",
+    "name": {
+      "en": "Events, Cinema & Event Tickets",
+      "bn": "ইভেন্ট, সিনেমা ও টিকিট"
+    },
+    "description": {
+      "en": "Important non-government services in Bangladesh: events, cinema & event tickets.",
+      "bn": "বাংলাদেশের গুরুত্বপূর্ণ বেসরকারি ও দৈনন্দিন সেবা: ইভেন্ট, সিনেমা ও টিকিট।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-097"
+    ],
+    "serviceIds": [
+      "PRV-053",
+      "EXT-065"
+    ],
+    "status": "active",
+    "sortOrder": 91,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-092",
+    "slug": "personal-finance-budgeting",
+    "name": {
+      "en": "Personal Finance & Budgeting",
+      "bn": "ব্যক্তিগত অর্থব্যবস্থা ও বাজেট"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for personal finance & budgeting.",
+      "bn": "ব্যক্তিগত অর্থব্যবস্থা ও বাজেট সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-098"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 92,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-093",
+    "slug": "accounting-invoicing-pos",
+    "name": {
+      "en": "Accounting, Invoicing & POS",
+      "bn": "হিসাবরক্ষণ, ইনভয়েস ও পিওএস"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for accounting, invoicing & pos.",
+      "bn": "হিসাবরক্ষণ, ইনভয়েস ও পিওএস সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-099"
+    ],
+    "serviceIds": [
+      "EXT-005",
+      "EXT-006"
+    ],
+    "status": "active",
+    "sortOrder": 93,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-094",
+    "slug": "sme-business-tools",
+    "name": {
+      "en": "SME & Small Business Tools",
+      "bn": "ক্ষুদ্র ব্যবসা ও এসএমই টুলস"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for sme & small business tools.",
+      "bn": "ক্ষুদ্র ব্যবসা ও এসএমই টুলস সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-100"
+    ],
+    "serviceIds": [
+      "EXT-009",
+      "EXT-013",
+      "EXT-057"
+    ],
+    "status": "active",
+    "sortOrder": 94,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-095",
+    "slug": "wholesale-b2b",
+    "name": {
+      "en": "Wholesale & B2B Marketplaces",
+      "bn": "পাইকারি ও B2B মার্কেটপ্লেস"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for wholesale & b2b marketplaces.",
+      "bn": "পাইকারি ও B2B মার্কেটপ্লেস সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-101"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 95,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-096",
+    "slug": "agri-marketplace-inputs",
+    "name": {
+      "en": "Agricultural Marketplace & Inputs",
+      "bn": "কৃষি মার্কেটপ্লেস ও উপকরণ"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for agricultural marketplace & inputs.",
+      "bn": "কৃষি মার্কেটপ্লেস ও উপকরণ সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-102"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 96,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-097",
+    "slug": "livestock-pet-services",
+    "name": {
+      "en": "Pet Care & Animal Services",
+      "bn": "পোষা প্রাণী ও প্রাণীসেবা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for pet care & animal services.",
+      "bn": "পোষা প্রাণী ও প্রাণীসেবা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-103"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 97,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-098",
+    "slug": "parenting-childcare",
+    "name": {
+      "en": "Parenting, Childcare & Family Support",
+      "bn": "প্যারেন্টিং, শিশুযত্ন ও পরিবার সহায়তা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for parenting, childcare & family support.",
+      "bn": "প্যারেন্টিং, শিশুযত্ন ও পরিবার সহায়তা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-104"
+    ],
+    "serviceIds": [
+      "EXT-045",
+      "EXT-046"
+    ],
+    "status": "active",
+    "sortOrder": 98,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-099",
+    "slug": "mental-wellbeing-support",
+    "name": {
+      "en": "Wellbeing & Counselling Resources",
+      "bn": "মানসিক সুস্থতা ও কাউন্সেলিং রিসোর্স"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for wellbeing & counselling resources.",
+      "bn": "মানসিক সুস্থতা ও কাউন্সেলিং রিসোর্স সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-105"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 99,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-100",
+    "slug": "fitness-sports-centres",
+    "name": {
+      "en": "Fitness, Gyms & Sports Centres",
+      "bn": "ফিটনেস, জিম ও ক্রীড়া কেন্দ্র"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for fitness, gyms & sports centres.",
+      "bn": "ফিটনেস, জিম ও ক্রীড়া কেন্দ্র সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-106"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 100,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-101",
+    "slug": "beauty-personal-care",
+    "name": {
+      "en": "Beauty, Salon & Personal Care",
+      "bn": "বিউটি, সেলুন ও ব্যক্তিগত পরিচর্যা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for beauty, salon & personal care.",
+      "bn": "বিউটি, সেলুন ও ব্যক্তিগত পরিচর্যা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-107"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 101,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-102",
+    "slug": "fashion-apparel",
+    "name": {
+      "en": "Fashion, Apparel & Footwear",
+      "bn": "ফ্যাশন, পোশাক ও জুতা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for fashion, apparel & footwear.",
+      "bn": "ফ্যাশন, পোশাক ও জুতা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-108"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 102,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-103",
+    "slug": "home-furniture-appliances",
+    "name": {
+      "en": "Home, Furniture & Appliances",
+      "bn": "ঘর, আসবাব ও গৃহস্থালি যন্ত্রপাতি"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for home, furniture & appliances.",
+      "bn": "ঘর, আসবাব ও গৃহস্থালি যন্ত্রপাতি সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-109"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 103,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-104",
+    "slug": "repair-electronics",
+    "name": {
+      "en": "Electronics Repair & Device Support",
+      "bn": "ইলেকট্রনিক্স মেরামত ও ডিভাইস সহায়তা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for electronics repair & device support.",
+      "bn": "ইলেকট্রনিক্স মেরামত ও ডিভাইস সহায়তা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-110"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 104,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-105",
+    "slug": "car-bike-services",
+    "name": {
+      "en": "Car, Bike & Vehicle Services",
+      "bn": "গাড়ি, মোটরসাইকেল ও যানবাহন সেবা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for car, bike & vehicle services.",
+      "bn": "গাড়ি, মোটরসাইকেল ও যানবাহন সেবা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-111"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 105,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-106",
+    "slug": "fuel-cng-ev-charging",
+    "name": {
+      "en": "Fuel, CNG & EV Charging",
+      "bn": "জ্বালানি, সিএনজি ও ইভি চার্জিং"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for fuel, cng & ev charging.",
+      "bn": "জ্বালানি, সিএনজি ও ইভি চার্জিং সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-112"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 106,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-107",
+    "slug": "parking-roadside-assistance",
+    "name": {
+      "en": "Parking & Roadside Assistance",
+      "bn": "পার্কিং ও রাস্তায় জরুরি সহায়তা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for parking & roadside assistance.",
+      "bn": "পার্কিং ও রাস্তায় জরুরি সহায়তা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-113"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 107,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-108",
+    "slug": "language-translation",
+    "name": {
+      "en": "Language Learning & Translation",
+      "bn": "ভাষা শিক্ষা ও অনুবাদ"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for language learning & translation.",
+      "bn": "ভাষা শিক্ষা ও অনুবাদ সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-114"
+    ],
+    "serviceIds": [
+      "EXT-019",
+      "EXT-020",
+      "EXT-049"
+    ],
+    "status": "active",
+    "sortOrder": 108,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-109",
+    "slug": "tutoring-coaching",
+    "name": {
+      "en": "Tutoring & Coaching Centres",
+      "bn": "প্রাইভেট টিউশন ও কোচিং"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for tutoring & coaching centres.",
+      "bn": "প্রাইভেট টিউশন ও কোচিং সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-115"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 109,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-110",
+    "slug": "scholarships-study-abroad",
+    "name": {
+      "en": "Scholarships & Study Abroad",
+      "bn": "বৃত্তি ও বিদেশে পড়াশোনা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for scholarships & study abroad.",
+      "bn": "বৃত্তি ও বিদেশে পড়াশোনা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-116"
+    ],
+    "serviceIds": [
+      "EXT-061"
+    ],
+    "status": "active",
+    "sortOrder": 110,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-111",
+    "slug": "career-cv-interview",
+    "name": {
+      "en": "CV, Interview & Career Development",
+      "bn": "সিভি, ইন্টারভিউ ও ক্যারিয়ার উন্নয়ন"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for cv, interview & career development.",
+      "bn": "সিভি, ইন্টারভিউ ও ক্যারিয়ার উন্নয়ন সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-117"
+    ],
+    "serviceIds": [
+      "EXT-062"
+    ],
+    "status": "active",
+    "sortOrder": 111,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-112",
+    "slug": "remote-meetings-collaboration",
+    "name": {
+      "en": "Remote Work & Collaboration Tools",
+      "bn": "রিমোট কাজ ও সহযোগিতার টুল"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for remote work & collaboration tools.",
+      "bn": "রিমোট কাজ ও সহযোগিতার টুল সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-118"
+    ],
+    "serviceIds": [
+      "EXT-050",
+      "EXT-051"
+    ],
+    "status": "active",
+    "sortOrder": 112,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-113",
+    "slug": "cyber-safety-identity",
+    "name": {
+      "en": "Online Safety & Identity Protection",
+      "bn": "অনলাইন নিরাপত্তা ও পরিচয় সুরক্ষা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for online safety & identity protection.",
+      "bn": "অনলাইন নিরাপত্তা ও পরিচয় সুরক্ষা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-119"
+    ],
+    "serviceIds": [
+      "EXT-053"
+    ],
+    "status": "active",
+    "sortOrder": 113,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-114",
+    "slug": "password-security-utilities",
+    "name": {
+      "en": "Password & Security Utilities",
+      "bn": "পাসওয়ার্ড ও নিরাপত্তা টুল"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for password & security utilities.",
+      "bn": "পাসওয়ার্ড ও নিরাপত্তা টুল সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-120"
+    ],
+    "serviceIds": [
+      "EXT-052"
+    ],
+    "status": "active",
+    "sortOrder": 114,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-115",
+    "slug": "file-conversion-pdf",
+    "name": {
+      "en": "PDF, File Conversion & Documents",
+      "bn": "পিডিএফ, ফাইল কনভার্সন ও ডকুমেন্ট"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for pdf, file conversion & documents.",
+      "bn": "পিডিএফ, ফাইল কনভার্সন ও ডকুমেন্ট সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-121"
+    ],
+    "serviceIds": [
+      "EXT-022",
+      "EXT-023",
+      "EXT-024"
+    ],
+    "status": "active",
+    "sortOrder": 115,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-116",
+    "slug": "photo-video-creative",
+    "name": {
+      "en": "Photo, Video & Creative Tools",
+      "bn": "ছবি, ভিডিও ও সৃজনশীল টুল"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for photo, video & creative tools.",
+      "bn": "ছবি, ভিডিও ও সৃজনশীল টুল সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-122"
+    ],
+    "serviceIds": [
+      "EXT-025",
+      "EXT-026",
+      "EXT-027"
+    ],
+    "status": "active",
+    "sortOrder": 116,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-117",
+    "slug": "social-media-creator",
+    "name": {
+      "en": "Social Media & Creator Tools",
+      "bn": "সোশ্যাল মিডিয়া ও ক্রিয়েটর টুল"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for social media & creator tools.",
+      "bn": "সোশ্যাল মিডিয়া ও ক্রিয়েটর টুল সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-123"
+    ],
+    "serviceIds": [
+      "EXT-028",
+      "EXT-029"
+    ],
+    "status": "active",
+    "sortOrder": 117,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-118",
+    "slug": "websites-app-development",
+    "name": {
+      "en": "Website & App Development",
+      "bn": "ওয়েবসাইট ও অ্যাপ ডেভেলপমেন্ট"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for website & app development.",
+      "bn": "ওয়েবসাইট ও অ্যাপ ডেভেলপমেন্ট সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-124"
+    ],
+    "serviceIds": [
+      "EXT-031",
+      "EXT-032"
+    ],
+    "status": "active",
+    "sortOrder": 118,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-119",
+    "slug": "business-registration-support",
+    "name": {
+      "en": "Business Setup & Compliance Support",
+      "bn": "ব্যবসা শুরু ও কমপ্লায়েন্স সহায়তা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for business setup & compliance support.",
+      "bn": "ব্যবসা শুরু ও কমপ্লায়েন্স সহায়তা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-125"
+    ],
+    "serviceIds": [
+      "EXT-010",
+      "EXT-011"
+    ],
+    "status": "active",
+    "sortOrder": 119,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-120",
+    "slug": "printing-photocopy",
+    "name": {
+      "en": "Printing, Photocopy & Document Services",
+      "bn": "প্রিন্টিং, ফটোকপি ও ডকুমেন্ট সেবা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for printing, photocopy & document services.",
+      "bn": "প্রিন্টিং, ফটোকপি ও ডকুমেন্ট সেবা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-126"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 120,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-121",
+    "slug": "event-planning-photography",
+    "name": {
+      "en": "Event Planning & Photography",
+      "bn": "ইভেন্ট আয়োজন ও ফটোগ্রাফি"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for event planning & photography.",
+      "bn": "ইভেন্ট আয়োজন ও ফটোগ্রাফি সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-127"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 121,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-122",
+    "slug": "wedding-services",
+    "name": {
+      "en": "Wedding & Ceremony Services",
+      "bn": "বিয়ে ও অনুষ্ঠান সেবা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for wedding & ceremony services.",
+      "bn": "বিয়ে ও অনুষ্ঠান সেবা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-128"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 122,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-123",
+    "slug": "community-groups",
+    "name": {
+      "en": "Community Groups & Local Networks",
+      "bn": "কমিউনিটি গ্রুপ ও স্থানীয় নেটওয়ার্ক"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for community groups & local networks.",
+      "bn": "কমিউনিটি গ্রুপ ও স্থানীয় নেটওয়ার্ক সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-129"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 123,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-124",
+    "slug": "donations-fundraising",
+    "name": {
+      "en": "Donations & Fundraising",
+      "bn": "অনুদান ও তহবিল সংগ্রহ"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for donations & fundraising.",
+      "bn": "অনুদান ও তহবিল সংগ্রহ সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-130"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 124,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-125",
+    "slug": "recycling-waste-services",
+    "name": {
+      "en": "Recycling & Waste Services",
+      "bn": "রিসাইক্লিং ও বর্জ্য সেবা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for recycling & waste services.",
+      "bn": "রিসাইক্লিং ও বর্জ্য সেবা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-131"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 125,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-126",
+    "slug": "environmental-products",
+    "name": {
+      "en": "Environment & Sustainable Products",
+      "bn": "পরিবেশবান্ধব ও টেকসই পণ্য"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for environment & sustainable products.",
+      "bn": "পরিবেশবান্ধব ও টেকসই পণ্য সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-132"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 126,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-127",
+    "slug": "accessibility-assistive-tech",
+    "name": {
+      "en": "Accessibility & Assistive Technology",
+      "bn": "প্রতিবন্ধীবান্ধব সেবা ও সহায়ক প্রযুক্তি"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for accessibility & assistive technology.",
+      "bn": "প্রতিবন্ধীবান্ধব সেবা ও সহায়ক প্রযুক্তি সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-133"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 127,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-128",
+    "slug": "senior-care",
+    "name": {
+      "en": "Senior Care & Elder Support",
+      "bn": "প্রবীণ সেবা ও সহায়তা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for senior care & elder support.",
+      "bn": "প্রবীণ সেবা ও সহায়তা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-134"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 128,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-129",
+    "slug": "student-life",
+    "name": {
+      "en": "Student Services & Campus Life",
+      "bn": "শিক্ষার্থী সেবা ও ক্যাম্পাস জীবন"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for student services & campus life.",
+      "bn": "শিক্ষার্থী সেবা ও ক্যাম্পাস জীবন সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-135"
+    ],
+    "serviceIds": [
+      "EXT-060"
+    ],
+    "status": "active",
+    "sortOrder": 129,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-130",
+    "slug": "accommodation-hostels",
+    "name": {
+      "en": "Hostels, Student Housing & Stays",
+      "bn": "হোস্টেল, শিক্ষার্থী আবাসন ও থাকার ব্যবস্থা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for hostels, student housing & stays.",
+      "bn": "হোস্টেল, শিক্ষার্থী আবাসন ও থাকার ব্যবস্থা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-136"
+    ],
+    "serviceIds": [
+      "EXT-038"
+    ],
+    "status": "active",
+    "sortOrder": 130,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-131",
+    "slug": "public-reviews-complaints",
+    "name": {
+      "en": "Reviews, Ratings & Consumer Feedback",
+      "bn": "রিভিউ, রেটিং ও ভোক্তা মতামত"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for reviews, ratings & consumer feedback.",
+      "bn": "রিভিউ, রেটিং ও ভোক্তা মতামত সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-137"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 131,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-132",
+    "slug": "local-business-directories",
+    "name": {
+      "en": "Local Business Directories",
+      "bn": "স্থানীয় ব্যবসার ডিরেক্টরি"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for local business directories.",
+      "bn": "স্থানীয় ব্যবসার ডিরেক্টরি সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-138"
+    ],
+    "serviceIds": [
+      "EXT-012",
+      "EXT-030"
+    ],
+    "status": "active",
+    "sortOrder": 132,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-133",
+    "slug": "digital-signatures-documents",
+    "name": {
+      "en": "Digital Signatures & Document Tools",
+      "bn": "ডিজিটাল স্বাক্ষর ও ডকুমেন্ট টুল"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for digital signatures & document tools.",
+      "bn": "ডিজিটাল স্বাক্ষর ও ডকুমেন্ট টুল সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-139"
+    ],
+    "serviceIds": [],
+    "status": "active",
+    "sortOrder": 133,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-134",
+    "slug": "ecommerce-seller-tools",
+    "name": {
+      "en": "E-commerce Seller Tools",
+      "bn": "ই-কমার্স বিক্রেতার টুল"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for e-commerce seller tools.",
+      "bn": "ই-কমার্স বিক্রেতার টুল সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-140"
+    ],
+    "serviceIds": [
+      "EXT-007",
+      "EXT-008",
+      "EXT-058"
+    ],
+    "status": "active",
+    "sortOrder": 134,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-135",
+    "slug": "payments-remittance",
+    "name": {
+      "en": "Remittance & International Transfers",
+      "bn": "রেমিট্যান্স ও আন্তর্জাতিক অর্থ স্থানান্তর"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for remittance & international transfers.",
+      "bn": "রেমিট্যান্স ও আন্তর্জাতিক অর্থ স্থানান্তর সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-141"
+    ],
+    "serviceIds": [
+      "EXT-002",
+      "EXT-003",
+      "EXT-044"
+    ],
+    "status": "active",
+    "sortOrder": 135,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-136",
+    "slug": "currency-exchange",
+    "name": {
+      "en": "Currency & Exchange Rate Tools",
+      "bn": "মুদ্রা ও বিনিময় হার টুল"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for currency & exchange rate tools.",
+      "bn": "মুদ্রা ও বিনিময় হার টুল সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-142"
+    ],
+    "serviceIds": [
+      "EXT-004"
+    ],
+    "status": "active",
+    "sortOrder": 136,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-137",
+    "slug": "flight-status-airport",
+    "name": {
+      "en": "Flight Status & Airport Services",
+      "bn": "ফ্লাইট স্ট্যাটাস ও বিমানবন্দর সেবা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for flight status & airport services.",
+      "bn": "ফ্লাইট স্ট্যাটাস ও বিমানবন্দর সেবা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-143"
+    ],
+    "serviceIds": [
+      "EXT-040",
+      "EXT-041"
+    ],
+    "status": "active",
+    "sortOrder": 137,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-138",
+    "slug": "travel-guides-local",
+    "name": {
+      "en": "Travel Guides & Local Experiences",
+      "bn": "ভ্রমণ গাইড ও স্থানীয় অভিজ্ঞতা"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for travel guides & local experiences.",
+      "bn": "ভ্রমণ গাইড ও স্থানীয় অভিজ্ঞতা সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-144"
+    ],
+    "serviceIds": [
+      "EXT-039"
+    ],
+    "status": "active",
+    "sortOrder": 138,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-139",
+    "slug": "restaurants-cafes",
+    "name": {
+      "en": "Restaurants, Cafes & Reservations",
+      "bn": "রেস্টুরেন্ট, ক্যাফে ও বুকিং"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for restaurants, cafes & reservations.",
+      "bn": "রেস্টুরেন্ট, ক্যাফে ও বুকিং সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-145"
+    ],
+    "serviceIds": [
+      "EXT-042",
+      "EXT-043"
+    ],
+    "status": "active",
+    "sortOrder": 139,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-140",
+    "slug": "movies-music-streaming",
+    "name": {
+      "en": "Movies, Music & Streaming",
+      "bn": "সিনেমা, সংগীত ও স্ট্রিমিং"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for movies, music & streaming.",
+      "bn": "সিনেমা, সংগীত ও স্ট্রিমিং সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-146"
+    ],
+    "serviceIds": [
+      "EXT-066",
+      "EXT-067"
+    ],
+    "status": "active",
+    "sortOrder": 140,
+    "sector": "private-or-community"
+  },
+  {
+    "id": "CAT-141",
+    "slug": "podcasts-audiobooks",
+    "name": {
+      "en": "Podcasts & Audiobooks",
+      "bn": "পডকাস্ট ও অডিওবুক"
+    },
+    "description": {
+      "en": "Useful Bangladesh-facing resources for podcasts & audiobooks.",
+      "bn": "পডকাস্ট ও অডিওবুক সম্পর্কিত প্রয়োজনীয় অনলাইন ও স্থানীয় সেবা।"
+    },
+    "countryCode": "BD",
+    "subcategoryIds": [
+      "SUB-147"
+    ],
+    "serviceIds": [
+      "EXT-068"
+    ],
+    "status": "active",
+    "sortOrder": 141,
+    "sector": "private-or-community"
+  }
+]

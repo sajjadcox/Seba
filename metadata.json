@@ -1,0 +1,6 @@
+{
+  "name": "Seba Nexa BD",
+  "description": "Comprehensive Bangladesh service directory for essential government, private, and community services. Access verified digital portals, citizen charters, and helplines in English and বাংলা.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
